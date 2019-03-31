@@ -39,6 +39,14 @@
 
 .nav--web p {
 	visibility: hidden;
+	font-weight: 400;
+	font-size: 11rem;
+	transition: visibility .5s ease-in-out;
+}
+
+.nav--web:hover p {
+	visibility: visible;
+	color: #0e81ff;
 }
 
 .nav--hover {
@@ -59,16 +67,25 @@
 	content: url("/svg/webBlue.svg");
 }
 
-.nav--web:hover p {
-	visibility: visible;
-	color: #0e81ff;
-}
+
 
 .nav--print {
 	width: 100%;
     margin: -20px auto;
     padding: 45px 0px 40px 0px;
     cursor: pointer;
+}
+
+.nav--print p {
+	visibility: hidden;
+	font-weight: 400;
+	font-size: 11rem;
+	transition: visibility .5s ease-in-out;
+}
+
+.nav--print:hover p {
+	visibility: visible;
+	color: #0e81ff;
 }
 
 .nav--print:hover > .nav--image {
@@ -82,6 +99,19 @@
     cursor: pointer;
 }
 
+.nav--photo p {
+	visibility: hidden;
+	font-weight: 400;
+	font-size: 11rem;
+	transition: visibility .5s ease-in-out;
+}
+
+.nav--photo:hover p {
+	visibility: visible;
+	color: #0e81ff;
+}
+
+
 .nav--photo:hover > .nav--image {
 	content: url("/svg/photoBlue.svg");
 }
@@ -92,6 +122,19 @@
     padding: 45px 0px 40px 0px;
     cursor: pointer;
 }
+
+.nav--other p {
+	visibility: hidden;
+	font-weight: 400;
+	font-size: 11rem;
+	transition: visibility .5s ease-in-out;
+}
+
+.nav--other:hover p {
+	visibility: visible;
+	color: #0e81ff;
+}
+
 
 .nav--other:hover > .nav--image {
 	content: url("/svg/otherBlue.svg");
