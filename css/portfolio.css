@@ -19,7 +19,7 @@
 	width: 100%;
 	margin: 50px auto;
 	padding: 25px 0px;
-	transition: background-color 1s ease-in-out;
+	transition: background-color .5s ease-in-out;
 	cursor: pointer;
 }
 
@@ -30,6 +30,10 @@
 .nav--web > .nav--image {
 	content: url("/svg/web.svg");
 	margin: 0 auto;
+}
+
+.nav--web:hover > .nav--image {
+	content: url("/svg/webBlue.svg");
 }
 
 .nav--print {
