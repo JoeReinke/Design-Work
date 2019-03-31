@@ -28,11 +28,14 @@
     width: 100%;
     margin: -20px auto;
     padding: 45px 0px 40px 0px;
-    transition: background-color .5s ease-in-out;
     cursor: pointer;
 }
 
-.nav--web:hover {
+.nav--hover {
+    transition: background-color .5s ease-in-out;
+}
+
+.nav--hover:hover {
 	background-color: #fff;
 }
 
@@ -51,15 +54,29 @@
 	margin: 50px auto;
 }
 
+.nav--print:hover > .nav--image {
+	content: url("/svg/printBlue.svg");
+}
+
 .nav--photo {
 	width: 100%;
 	margin: 50px auto;
+}
+
+.nav--photo:hover > .nav--image {
+	content: url("/svg/photoBlue.svg");
 }
 
 .nav--other {
 	width: 100%;
 	margin: 50px auto;
 }
+
+.nav--other:hover > .nav--image {
+	content: url("/svg/otherBlue.svg");
+}
+
+
 
 @keyframes navColor {
   0% {
