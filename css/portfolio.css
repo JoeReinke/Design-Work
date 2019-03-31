@@ -7,29 +7,26 @@
 	top: 0;
 	width: 100px;
 	height: 100vh;
+	text-align: center;
 	animation: navColor 20s ease infinite;
 }
 
 .nav--web {
-	content: url("/svg/web.svg");
 	max-width: 34px;
 	margin: 50px auto;
 }
 
 .nav--print {
-	content: url("/svg/print.svg");
 	max-width: 34px;
 	margin: 50px auto;
 }
 
 .nav--photo {
-	content: url("/svg/photo.svg");
 	max-width: 34px;
 	margin: 50px auto;
 }
 
 .nav--other {
-	content: url("/svg/other.svg");
 	max-width: 34px;
 	margin: 50px auto;
 }
