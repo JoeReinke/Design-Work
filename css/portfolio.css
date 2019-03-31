@@ -11,23 +11,27 @@
 	animation: navColor 20s ease infinite;
 }
 
-.nav--web {
+.nav--image {
 	max-width: 34px;
+}
+
+.nav--web {
+	width: 100%;
 	margin: 50px auto;
 }
 
 .nav--print {
-	max-width: 34px;
+	width: 100%;
 	margin: 50px auto;
 }
 
 .nav--photo {
-	max-width: 34px;
+	width: 100%;
 	margin: 50px auto;
 }
 
 .nav--other {
-	max-width: 34px;
+	width: 100%;
 	margin: 50px auto;
 }
 
