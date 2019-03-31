@@ -7,8 +7,44 @@
 	top: 0;
 	width: 100px;
 	height: 100vh;
+	text-align: center;
 	animation: navColor 20s ease infinite;
-	
+}
+
+.nav--image {
+	max-width: 34px;
+}
+
+.nav--web {
+	width: 100%;
+	margin: 50px auto;
+	padding: 25px 0px;
+	transition: background-color 1s ease-in-out;
+	cursor: pointer;
+}
+
+.nav--web:hover {
+	background-color: #fff;
+}
+
+.nav--web > .nav--image {
+	content: url("/svg/web.svg");
+	margin: 0 auto;
+}
+
+.nav--print {
+	width: 100%;
+	margin: 50px auto;
+}
+
+.nav--photo {
+	width: 100%;
+	margin: 50px auto;
+}
+
+.nav--other {
+	width: 100%;
+	margin: 50px auto;
 }
 
 @keyframes navColor {
