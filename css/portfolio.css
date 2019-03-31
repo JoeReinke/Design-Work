@@ -56,6 +56,8 @@
 	content: url("/svg/web.svg");
 	margin: 0 auto;
 	transition: content .5s ease-in-out;
+	width: 34px;
+	height: 28px
 }
 
 .nav--web:hover > .nav--image {
@@ -111,14 +113,17 @@
 }
 
 .nav--other p {
-	animation: navText 120s ease infinite;
 	font-weight: 900;
 	font-size: 11px;
 	color: #0e81ff;
+	visibility: hidden;
+	
 }
 
 .nav--other:hover p {
 	animation: none;
+	visibility: visible;
+
 }
 
 
