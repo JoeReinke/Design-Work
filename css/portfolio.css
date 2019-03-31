@@ -18,7 +18,7 @@
 }
 
 .rounded {
-    animation: navColor 120 ease infinite;
+    animation: navColor 120s ease infinite;
     z-index: 1;
     position: relative;
     border-bottom-right-radius: 20px;
