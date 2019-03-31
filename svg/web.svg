@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="28px" viewBox="0 0 34 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>web</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portfolio-Home" transform="translate(-48.000000, -245.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="web" transform="translate(49.000000, 246.000000)">
+                <path d="M30.7295871,20.5263158 L1.27041294,20.5263158 C0.569019209,20.5263158 0,19.9632566 0,19.2687398 L0,1.257576 C0,0.562848868 0.569019209,0 1.27041294,0 L30.7295871,0 C31.4311933,0 32,0.562848868 32,1.257576 L32,19.2687398 C32,19.9632566 31.4311933,20.5263158 30.7295871,20.5263158 Z" id="Stroke-3"></path>
+                <path d="M0,16.4210526 L32,16.4210526" id="Stroke-5"></path>
+                <path d="M14.6086957,20.5263158 L14.6086957,23.1143339 C14.6086957,24.3300755 13.6743374,25.3157895 12.5217391,25.3157895" id="Stroke-7"></path>
+                <path d="M19.4782609,25.3157895 C18.3255539,25.3157895 17.3913043,24.3300755 17.3913043,23.1143339 L17.3913043,20.5263158" id="Stroke-9"></path>
+                <path d="M8.34782609,25.3157895 L23.6521739,25.3157895" id="Stroke-11"></path>
+            </g>
+        </g>
+    </g>
+</svg>
