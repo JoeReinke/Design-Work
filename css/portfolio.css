@@ -117,6 +117,10 @@
 	color: #0e81ff;
 }
 
+.nav--other:hover p {
+	animation: none;
+}
+
 
 .nav--other:hover > .nav--image {
 	content: url("/svg/otherBlue.svg");
@@ -125,23 +129,32 @@
 
 
 @keyframes navColor {
-  0% {
-    background-color: #481DFF;
-  }
+	0% {
+    	background-color: #481DFF;
+	}
 
-  50% {
-    background-color: #0E82FF;
-  }
+	25% {
+		background-color: #7F11D5;
+	}
+	
+	50% {
+		background-color: #0E82FF;
+	}
+	
+	75% {
+		background-color: #00A88A;
+	}
 
-  100% {
-    background-color: #481DFF;
-  }
+	100% {
+    	background-color: #481DFF;
+	}
 }
 
 @keyframes navText {
   0% {
     color: #481DFF;
   }
+
   50% {
     color: #0E82FF;
   }
