@@ -20,6 +20,10 @@
 	margin: 50px auto;
 }
 
+.nav--web > .nav--image {
+	content: url("/svg/web.svg")
+}
+
 .nav--print {
 	width: 100%;
 	margin: 50px auto;
