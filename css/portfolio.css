@@ -174,7 +174,7 @@
 
 @keyframes navColor {
 	0% {
-    	background-color: #481DFF;
+    	background-color: #0E82FF;
 	}
 
 	/*25% {
@@ -182,7 +182,7 @@
 	}*/
 	
 	50% {
-		background-color: #0E82FF;
+		background-color: #481DFF;
 	}
 	
 	/*75% {
@@ -190,7 +190,7 @@
 	}*/
 
 	100% {
-    	background-color: #481DFF;
+    	background-color: #0E82FF;
 	}
 }
 
