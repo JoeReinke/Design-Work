@@ -57,7 +57,7 @@
 	margin: 0 auto;
 	transition: content .5s ease-in-out;
 	width: 34px;
-	height: 28px
+	height: 28px;
 }
 
 .nav--web:hover > .nav--image {
