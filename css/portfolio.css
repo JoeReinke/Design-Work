@@ -42,8 +42,7 @@
 	font-size: 11px;
 	visibility: hidden;
 	color: #0e81ff;
-	transition: visibility .25s ease-in-out;
-	margin-bottom: -20px;
+	margin-bottom: -10px;
 }
 
 .nav--web:hover p {
