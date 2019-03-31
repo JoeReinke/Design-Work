@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="35px" viewBox="0 0 34 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>otherBlue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portfolio-Home" transform="translate(-178.000000, -529.000000)" stroke="#0E81FF" stroke-width="2">
+            <g id="otherBlue" transform="translate(179.000000, 530.000000)">
+                <g id="sub-other" transform="translate(16.970563, 16.970563) rotate(-45.000000) translate(-16.970563, -16.970563) translate(13.970563, -4.029437)">
+                    <path d="M4.66792373,36 L0.623232511,36 C0.278962383,36 0,35.6108885 0,35.1306822 L0,5.67917622 C0,5.19896999 0.278962383,4.80985847 0.623232511,4.80985847 L4.66792373,4.80985847 C5.01219386,4.80985847 5.29115624,5.19896999 5.29115624,5.67917622 L5.29115624,35.1306822 C5.29115624,35.6108885 5.01219386,36 4.66792373,36 Z" id="Stroke-5"></path>
+                    <path d="M4.66792373,4.80985847 L0.623232511,4.80985847 C0.278962383,4.80985847 0,4.55627967 0,4.24333566 L0,0.566682396 C0,0.253738386 0.278962383,0 0.623232511,0 L4.66792373,0 C5.01219386,0 5.29115624,0.253738386 5.29115624,0.566682396 L5.29115624,4.24333566 C5.29115624,4.55627967 5.01219386,4.80985847 4.66792373,4.80985847 Z" id="Stroke-7"></path>
+                    <path d="M2.64557812,41.6005051 L5.20431507,36.9989178 C5.45110139,36.5548918 5.14252815,36 4.64877485,36 L0.642381394,36 C0.148628088,36 -0.159945145,36.5548918 0.0868411764,36.9989178 L2.64557812,41.6005051 Z" id="Stroke-9"></path>
+                </g>
+                <path d="M27,3 L31,3" id="Line-Copy" stroke-linecap="square"></path>
+                <path d="M21,3 L23,3" id="Line-Copy" stroke-linecap="square"></path>
+                <path d="M15,3 L17,3" id="Line-Copy" stroke-linecap="square"></path>
+                <path d="M29,5 L29,1" id="Line" stroke-linecap="square"></path>
+                <path d="M29,11 L29,9" id="Line-Copy-2" stroke-linecap="square"></path>
+                <path d="M29,17 L29,15" id="Line-Copy-2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
