@@ -41,6 +41,7 @@
 	font-weight: 900;
 	font-size: 11px;
 	visibility: hidden;
+	color: #0e81ff;
 }
 
 .nav--web:hover p {
@@ -59,7 +60,7 @@
 .nav--web > .nav--image {
 	content: url("/svg/web.svg");
 	margin: 0 auto;
-	transition: content .5s ease-in-out;
+	transition: content .25s ease-in-out;
 	width: 34px;
 	height: 28px;
 }
@@ -80,7 +81,7 @@
 .nav--print > .nav--image {
 	content: url("/svg/print.svg");
 	margin: 0 auto;
-	transition: content .5s ease-in-out;
+	transition: content .25s ease-in-out;
 	width: 26px;
 	height: 29px;
 }
@@ -111,7 +112,7 @@
 .nav--photo > .nav--image {
 	content: url("/svg/photo.svg");
 	margin: 0 auto;
-	transition: content .5s ease-in-out;
+	transition: content .25s ease-in-out;
 	width: 27px;
 	height: 21px;
 }
@@ -145,7 +146,7 @@
 .nav--other > .nav--image {
 	content: url("/svg/other.svg");
 	margin: 0 auto;
-	transition: content .5s ease-in-out;
+	transition: content .25s ease-in-out;
 	width: 34px;
 	height: 35px;
 }
