@@ -37,6 +37,10 @@
     cursor: pointer;
 }
 
+.nav--web p {
+	visibility: hidden;
+}
+
 .nav--hover {
     transition: background-color .5s ease-in-out;
 }
@@ -53,6 +57,11 @@
 
 .nav--web:hover > .nav--image {
 	content: url("/svg/webBlue.svg");
+}
+
+.nav--web:hover p {
+	visibility: visible;
+	color: #0e81ff;
 }
 
 .nav--print {
