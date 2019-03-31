@@ -1,6 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,900,900i');
+
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
 .nav {
 	position: fixed;
 	left: 0;
