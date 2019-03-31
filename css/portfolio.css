@@ -14,7 +14,7 @@
 	width: 100px;
 	height: 100vh;
 	text-align: center;
-	animation: navColor 60s ease infinite;
+	animation: navColor 120s ease infinite;
 }
 
 .rounded {
@@ -40,7 +40,7 @@
 .nav--web p {
 	font-weight: 900;
 	font-size: 11px;
-	animation: navText 20s ease infinite;
+	animation: navText 120s ease infinite;
 }
 
 
@@ -72,7 +72,7 @@
 }
 
 .nav--print p {
-	animation: navText 20s ease infinite;
+	animation: navText 120s ease infinite;
 	font-weight: 900;
 	font-size: 11px;
 	color: #0e81ff;
@@ -91,7 +91,7 @@
 }
 
 .nav--photo p {
-	animation: navText 20s ease infinite;
+	animation: navText 120s ease infinite;
 	font-weight: 900;
 	font-size: 11px;
 	color: #0e81ff;
@@ -111,7 +111,7 @@
 }
 
 .nav--other p {
-	animation: navText 20s ease infinite;
+	animation: navText 120s ease infinite;
 	font-weight: 900;
 	font-size: 11px;
 	color: #0e81ff;
@@ -134,7 +134,7 @@
 	}
 
 	25% {
-		background-color: #7F11D5;
+		background-color: #A636FF;
 	}
 	
 	50% {
@@ -152,13 +152,22 @@
 
 @keyframes navText {
   0% {
-    color: #481DFF;
-  }
+    	color: #481DFF;
+	}
 
-  50% {
-    color: #0E82FF;
-  }
-  100% {
-    color: #481DFF;
-  }
+	25% {
+		color: #A636FF;
+	}
+	
+	50% {
+		color: #0E82FF;
+	}
+	
+	75% {
+		color: #00A88A;
+	}
+
+	100% {
+    	color: #481DFF;
+	}
 }
