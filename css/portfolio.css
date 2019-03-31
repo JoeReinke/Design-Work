@@ -41,12 +41,12 @@
 	visibility: hidden;
 	font-weight: 900;
 	font-size: 11px;
+	color: #0e81ff;
 	transition: visibility .5s ease-in-out;
 }
 
 .nav--web:hover p {
 	visibility: visible;
-	color: #0e81ff;
 }
 
 .nav--hover {
@@ -80,12 +80,12 @@
 	visibility: hidden;
 	font-weight: 900;
 	font-size: 11px;
+	color: #0e81ff;
 	transition: visibility .5s ease-in-out;
 }
 
 .nav--print:hover p {
 	visibility: visible;
-	color: #0e81ff;
 }
 
 .nav--print:hover > .nav--image {
@@ -103,12 +103,12 @@
 	visibility: hidden;
 	font-weight: 900;
 	font-size: 11px;
+	color: #0e81ff;
 	transition: visibility .5s ease-in-out;
 }
 
 .nav--photo:hover p {
 	visibility: visible;
-	color: #0e81ff;
 }
 
 
@@ -127,12 +127,12 @@
 	visibility: hidden;
 	font-weight: 900;
 	font-size: 11px;
+	color: #0e81ff;
 	transition: visibility .5s ease-in-out;
 }
 
 .nav--other:hover p {
 	visibility: visible;
-	color: #0e81ff;
 }
 
 
