@@ -14,11 +14,11 @@
 	width: 100px;
 	height: 100vh;
 	text-align: center;
-	animation: navColor 120s ease infinite;
+	animation: navColor 75s ease infinite;
 }
 
 .rounded {
-    animation: navColor 120s ease infinite;
+    animation: navColor 75s ease infinite;
     z-index: 1;
     position: relative;
     border-bottom-right-radius: 20px;
