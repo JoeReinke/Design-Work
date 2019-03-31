@@ -40,7 +40,7 @@
 .nav--web p {
 	visibility: hidden;
 	font-weight: 900;
-	font-size: 11rem;
+	font-size: 11px;
 	transition: visibility .5s ease-in-out;
 }
 
@@ -79,7 +79,7 @@
 .nav--print p {
 	visibility: hidden;
 	font-weight: 900;
-	font-size: 11rem;
+	font-size: 11px;
 	transition: visibility .5s ease-in-out;
 }
 
@@ -102,7 +102,7 @@
 .nav--photo p {
 	visibility: hidden;
 	font-weight: 900;
-	font-size: 11rem;
+	font-size: 11px;
 	transition: visibility .5s ease-in-out;
 }
 
@@ -126,7 +126,7 @@
 .nav--other p {
 	visibility: hidden;
 	font-weight: 900;
-	font-size: 11rem;
+	font-size: 11px;
 	transition: visibility .5s ease-in-out;
 }
 
