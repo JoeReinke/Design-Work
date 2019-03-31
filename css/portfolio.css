@@ -11,7 +11,7 @@
 	position: fixed;
 	left: 0;
 	top: 0;
-	width: 100px;
+	width: 120px;
 	height: 100vh;
 	text-align: center;
 	animation: navColor 120s ease infinite;
@@ -40,7 +40,11 @@
 .nav--web p {
 	font-weight: 900;
 	font-size: 11px;
-	animation: navText 120s ease infinite;
+	visibility: hidden;
+}
+
+.nav--web:hover p {
+	visibility: visible;
 }
 
 
@@ -73,11 +77,23 @@
     cursor: pointer;
 }
 
+.nav--print > .nav--image {
+	content: url("/svg/print.svg");
+	margin: 0 auto;
+	transition: content .5s ease-in-out;
+	width: 26px;
+	height: 29px;
+}
+
 .nav--print p {
-	animation: navText 120s ease infinite;
 	font-weight: 900;
 	font-size: 11px;
 	color: #0e81ff;
+	visibility: hidden;
+}
+
+.nav--print:hover p {
+	visibility: visible;
 }
 
 
@@ -92,12 +108,26 @@
     cursor: pointer;
 }
 
+.nav--photo > .nav--image {
+	content: url("/svg/photo.svg");
+	margin: 0 auto;
+	transition: content .5s ease-in-out;
+	width: 27px;
+	height: 21px;
+}
+
 .nav--photo p {
-	animation: navText 120s ease infinite;
 	font-weight: 900;
 	font-size: 11px;
 	color: #0e81ff;
+	visibility: hidden;
+	
 }
+
+.nav--photo:hover p {
+	visibility: visible;
+}
+
 
 
 
@@ -112,6 +142,14 @@
     cursor: pointer;
 }
 
+.nav--other > .nav--image {
+	content: url("/svg/other.svg");
+	margin: 0 auto;
+	transition: content .5s ease-in-out;
+	width: 34px;
+	height: 35px;
+}
+
 .nav--other p {
 	font-weight: 900;
 	font-size: 11px;
@@ -121,9 +159,7 @@
 }
 
 .nav--other:hover p {
-	animation: none;
 	visibility: visible;
-
 }
 
 
