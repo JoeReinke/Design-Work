@@ -13,7 +13,25 @@
 .nav--web {
 	content: url("/svg/web.svg");
 	max-width: 34px;
-	margin: 20px auto;
+	margin: 50px auto;
+}
+
+.nav--print {
+	content: url("/svg/print.svg");
+	max-width: 34px;
+	margin: 50px auto;
+}
+
+.nav--photo {
+	content: url("/svg/photo.svg");
+	max-width: 34px;
+	margin: 50px auto;
+}
+
+.nav--other {
+	content: url("/svg/other.svg");
+	max-width: 34px;
+	margin: 50px auto;
 }
 
 @keyframes navColor {
