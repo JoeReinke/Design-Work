@@ -30,6 +30,7 @@
 .nav--web > .nav--image {
 	content: url("/svg/web.svg");
 	margin: 0 auto;
+	transition: content .5s ease-in-out;
 }
 
 .nav--web:hover > .nav--image {
