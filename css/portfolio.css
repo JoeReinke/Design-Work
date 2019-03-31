@@ -21,7 +21,8 @@
 }
 
 .nav--web > .nav--image {
-	content: url("/svg/web.svg")
+	content: url("/svg/web.svg");
+	margin: 0 auto;
 }
 
 .nav--print {
