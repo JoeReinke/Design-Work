@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.nav {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100px;
+	height: 100vh;
+	animation: navColor 10s ease infinite;
+	
+}
+
+@keyframes navColor {
+  0% {
+    background-color: #7e0fff;
+  }
+  50% {
+    background-color: #0fffc1;
+  }
+  100% {
+    background-color: #7e0fff;
+  }
+}
