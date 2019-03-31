@@ -38,16 +38,11 @@
 }
 
 .nav--web p {
-	visibility: hidden;
 	font-weight: 900;
 	font-size: 11px;
-	color: #0e81ff;
-	transition: visibility .5s ease-in-out;
+	animation: navText 20s ease infinite;
 }
 
-.nav--web:hover p {
-	visibility: visible;
-}
 
 .nav--hover {
     transition: background-color .5s ease-in-out;
@@ -77,16 +72,12 @@
 }
 
 .nav--print p {
-	visibility: hidden;
+	animation: navText 20s ease infinite;
 	font-weight: 900;
 	font-size: 11px;
 	color: #0e81ff;
-	transition: visibility .5s ease-in-out;
 }
 
-.nav--print:hover p {
-	visibility: visible;
-}
 
 .nav--print:hover > .nav--image {
 	content: url("/svg/printBlue.svg");
@@ -100,16 +91,12 @@
 }
 
 .nav--photo p {
-	visibility: hidden;
+	animation: navText 20s ease infinite;
 	font-weight: 900;
 	font-size: 11px;
 	color: #0e81ff;
-	transition: visibility .5s ease-in-out;
 }
 
-.nav--photo:hover p {
-	visibility: visible;
-}
 
 
 .nav--photo:hover > .nav--image {
@@ -124,15 +111,10 @@
 }
 
 .nav--other p {
-	visibility: hidden;
+	animation: navText 20s ease infinite;
 	font-weight: 900;
 	font-size: 11px;
 	color: #0e81ff;
-	transition: visibility .5s ease-in-out;
-}
-
-.nav--other:hover p {
-	visibility: visible;
 }
 
 
@@ -151,5 +133,17 @@
   }
   100% {
     background-color: #481DFF;
+  }
+}
+
+@keyframes navText {
+  0% {
+    color: #481DFF;
+  }
+  50% {
+    color: #0E82FF;
+  }
+  100% {
+    color: #481DFF;
   }
 }
