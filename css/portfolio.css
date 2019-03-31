@@ -18,6 +18,12 @@
 .nav--web {
 	width: 100%;
 	margin: 50px auto;
+	padding: 25px 0px;
+	transition: background-color 2s ease-in-out
+}
+
+.nav--web:hover {
+	background-color: #fff;
 }
 
 .nav--web > .nav--image {
