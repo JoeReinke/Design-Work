@@ -14,7 +14,11 @@
 	width: 100px;
 	height: 100vh;
 	text-align: center;
-	animation: navColor 75s ease infinite;
+	background: linear-gradient(270deg, #2981e8, #6db7ff, #9d6dff);
+	background-size: 600% 600%;
+	-webkit-animation: navColor 30s ease infinite;
+	-moz-animation: navColor 30s ease infinite;
+	animation: navColor 30s ease infinite;
 }
 
 .rounded {
@@ -194,24 +198,20 @@
 	}
 }
 
-@keyframes navText {
-  0% {
-    	color: #481DFF;
-	}
 
-/*	25% {
-		color: #A636FF;
-	}*/
-	
-	50% {
-		color: #0E82FF;
-	}
-	
-	/*75% {
-		color: #00D0AC;
-	}*/
 
-	100% {
-    	color: #481DFF;
-	}
+@-webkit-keyframes navColor {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes navColor {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes navColor { 
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
 }
