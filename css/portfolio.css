@@ -11,13 +11,22 @@
 	animation: navColor 20s ease infinite;
 }
 
+.rounded {
+	animation: navColor 20s ease infinite;
+	z-index: 1;
+	position: relative;
+	border-bottom-right-radius: 10px;
+	border-top-right-radius: 10px;
+	
+}
+
 .nav--image {
 	max-width: 34px;
 }
 
 .nav--web {
 	width: 100%;
-	margin: 50px auto;
+	margin: -10px auto;
 	padding: 25px 0px;
 	transition: background-color .5s ease-in-out;
 	cursor: pointer;
