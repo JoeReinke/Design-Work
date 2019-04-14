@@ -18,8 +18,8 @@
 }
 
 .logo {
-	content: url("/svg/jR.svg");
-	margin: 50px auto 100px auto;
+	content: url("/svg/logo.svg");
+	margin: 40px auto 80px auto;
 	width: 26px;
 	height: 32px;
 	cursor: pointer;
