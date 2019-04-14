@@ -33,7 +33,7 @@
 .nav--web {
     width: 100%;
     margin: -10px auto;
-    padding: 45px 0px 40px 0px;
+    padding: 35px 0px 30px 0px;
     cursor: pointer;
 }
 
@@ -74,7 +74,7 @@
 .nav--print {
 	width: 100%;
     margin: -10px auto;
-    padding: 45px 0px 40px 0px;
+    padding: 35px 0px 30px 0px;
     cursor: pointer;
 }
 
@@ -106,7 +106,7 @@
 .nav--photo {
 	width: 100%;
     margin: -10px auto;
-    padding: 45px 0px 40px 0px;
+    padding: 35px 0px 30px 0px;
     cursor: pointer;
 }
 
@@ -140,7 +140,7 @@
 .nav--other {
 	width: 100%;
     margin: -10px auto;
-    padding: 45px 0px 40px 0px;
+    padding: 35px 0px 30px 0px;
     cursor: pointer;
 }
 
