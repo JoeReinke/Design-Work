@@ -70,7 +70,7 @@
 	content: url("/svg/webBlue.svg");
 }
 
-
+.8235
 
 .nav--print {
 	width: 100%;
@@ -83,8 +83,8 @@
 	content: url("/svg/print.svg");
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
-	width: 26px;
-	height: 29px;
+	width: 21px;
+	height: 24px;
 }
 
 .nav--print p {
@@ -115,8 +115,8 @@
 	content: url("/svg/photo.svg");
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
-	width: 27px;
-	height: 21px;
+	width: 22px;
+	height: 17px;
 }
 
 .nav--photo p {
@@ -149,8 +149,8 @@
 	content: url("/svg/other.svg");
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
-	width: 34px;
-	height: 35px;
+	width: 28px;
+	height: 29px;
 }
 
 .nav--other p {
