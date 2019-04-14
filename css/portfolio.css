@@ -18,7 +18,7 @@
 }
 
 .logo {
-	content: url("/svg/logo.svg");
+	content: url("/svg/logoV2.svg");
 	margin: 40px auto 20px auto;
 	width: 64px;
 	cursor: pointer;
