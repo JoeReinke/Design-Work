@@ -62,8 +62,8 @@
 	content: url("/svg/web.svg");
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
-	width: 20px;
-	height: 18px;
+	width: 28px;
+	height: 23px;
 }
 
 .nav--web:hover > .nav--image {
