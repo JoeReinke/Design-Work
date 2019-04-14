@@ -19,9 +19,8 @@
 
 .logo {
 	content: url("/svg/logo.svg");
-	margin: 40px auto 80px auto;
-	width: 26px;
-	height: 32px;
+	margin: 40px auto 20px auto;
+	width: 70px;
 	cursor: pointer;
 }
 
@@ -71,7 +70,7 @@
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
 	width: 28px;
-	height: 23px;
+	/*height: 23px;*/
 }
 
 .nav--web:hover > .nav--image {
@@ -91,7 +90,7 @@
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
 	width: 21px;
-	height: 24px;
+	/*height: 24px;*/
 }
 
 .nav--print p {
@@ -123,7 +122,7 @@
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
 	width: 22px;
-	height: 17px;
+	/*height: 17px;*/
 }
 
 .nav--photo p {
@@ -157,7 +156,7 @@
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
 	width: 28px;
-	height: 29px;
+	/*height: 29px;*/
 }
 
 .nav--other p {
