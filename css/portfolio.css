@@ -91,7 +91,7 @@ a {
 	height: 23px;
 }
 
-.nav--acitiveweb > .nav--image {
+.nav--activeweb > .nav--image {
 	content: url("/svg/webBlue.svg");
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
