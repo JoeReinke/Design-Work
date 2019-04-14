@@ -48,6 +48,13 @@ a {
     cursor: pointer;
 }
 
+.nav--activeweb {
+    width: 100%;
+    margin: -10px auto;
+    padding: 35px 0px 30px 0px;
+    cursor: pointer;
+}
+
 .nav--web p {
 	font-weight: 500;
 	font-size: 11px;
