@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/* CSS Document */
+ CSS Document
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i');
 
@@ -74,7 +74,7 @@ a {
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
 	width: 28px;
-	/*height: 23px;*/
+	height: 23px;
 }
 
 .nav--web:hover > .nav--image {
@@ -94,7 +94,7 @@ a {
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
 	width: 21px;
-	/*height: 24px;*/
+	height: 24px;
 }
 
 .nav--print p {
@@ -126,7 +126,7 @@ a {
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
 	width: 22px;
-	/*height: 17px;*/
+	height: 17px;
 }
 
 .nav--photo p {
@@ -160,7 +160,7 @@ a {
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
 	width: 28px;
-	/*height: 29px;*/
+	height: 29px;
 }
 
 .nav--other p {
@@ -187,22 +187,22 @@ a {
     	background-color: #0E82FF;
 	}
 
-	/*25% {
+	25% {
 		background-color: #A636FF;
-	}*/
+	}
 
 	50% {
 		background-color: #481DFF;
 	}
 
-	/*75% {
+	75% {
 		background-color: #00D0AC;
-	}*/
+	}
 
 	100% {
     	background-color: #0E82FF;
 	}
 }
 
-/*background: linear-gradient(317deg, #2981e8, #6db7ff, #9d6dff);
-	background-size: 600% 600%;*/
+background: linear-gradient(317deg, #2981e8, #6db7ff, #9d6dff);
+	background-size: 600% 600%;
