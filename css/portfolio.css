@@ -245,7 +245,7 @@ a {
 	width: 50px;
 	height: 5px;
 	animation: navColor 75s ease infinite;
-	margin: 25px 0;
+	margin: 25px 0 35px;
 }
 
 .text--body > h1 {
