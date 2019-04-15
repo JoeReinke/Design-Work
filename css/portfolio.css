@@ -234,11 +234,19 @@ a {
 	max-width: 600px;
 }
 
+.bold {
+	font-weight: 800;
+}
+
+.blue {
+	color: #0e81ff;
+}
+
 .text--body-spacer {
 	width: 50px;
 	height: 5px;
 	background-color: #0e81ff;
-	margin: 50px 0;
+	margin: 25px 0;
 }
 
 .text--body > h1 {
@@ -250,6 +258,7 @@ a {
 .text--body > p {
 	font-weight: 400;
 	font-size: 14px;
+	line-height: 22px;
 	color: #898989;
 }
 
