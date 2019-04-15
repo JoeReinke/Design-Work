@@ -204,6 +204,17 @@ a {
 	content: url("/svg/otherBlue.svg");
 }
 
+.main--body {
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+.top--text {
+	font-weight: 800;
+	font-size: 12px;
+	margin-right: 50px; 
+}
+
 
 
 @keyframes navColor {
