@@ -207,6 +207,7 @@ a {
 .main--body {
 	margin-left: 115px;
 	margin-top: 50px;
+	display: inline-block;
 }
 
 .top--text {
@@ -229,7 +230,7 @@ a {
 .text--body {
 	display: block;
 	margin-left: 50px;
-	margin-top: 85px;
+	margin-top: 70px;
 	max-width: 600px;
 }
 
