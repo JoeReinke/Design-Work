@@ -212,7 +212,18 @@ a {
 .top--text {
 	font-weight: 800;
 	font-size: 12px;
-	margin-right: 50px; 
+	display: inline-block;
+	margin-right: 100px;
+	margin-left: 50px;
+	color: #0e81ff;
+}
+
+.top--text--last {
+	font-weight: 800;
+	font-size: 12px;
+	display: inline-block;
+	margin-left: 50px;
+	color: #0e81ff;
 }
 
 
