@@ -256,6 +256,14 @@ a {
 	animation: textColor 75s ease infinite;
 }
 
+.text--body > h2 {
+	font-weight: 800;
+	font-size: 14px;
+	color: #0e81ff;
+	animation: textColor 75s ease infinite;
+	margin-bottom: 10px;
+}
+
 .text--body > p {
 	font-weight: 400;
 	font-size: 14px;
