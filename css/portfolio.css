@@ -245,7 +245,7 @@ a {
 .text--body-spacer {
 	width: 50px;
 	height: 5px;
-	background-color: #0e81ff;
+	animation: navColor 75s ease infinite;
 	margin: 25px 0;
 }
 
