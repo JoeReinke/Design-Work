@@ -34,7 +34,7 @@ a {
     position: relative;
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
-    height: 20px;
+    height: 30px;
 }
 
 .nav--image {
@@ -230,7 +230,7 @@ a {
 .text--body {
 	display: block;
 	margin-left: 50px;
-	margin-top: 62px;
+	margin-top: 72px;
 	max-width: 600px;
 }
 
