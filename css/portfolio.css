@@ -319,6 +319,13 @@ a {
 	color: #ff5aa6;
 }
 
+.sketch {
+	content: url("/svg/sketch.svg");
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+}
+
 
 
 @keyframes navColor {
