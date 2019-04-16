@@ -283,7 +283,7 @@ a {
 
 .app--ctn {
 	display: inline-block;
-	margin: 0 50px 0 0;
+	width: 200px;
 	vertical-align: top;
 }
 
