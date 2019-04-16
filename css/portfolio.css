@@ -216,11 +216,13 @@ a {
 	position: fixed;
 	left: 800px;
 	top: 0;
-	width: 400px;
+	width: calc(100vw - 550px);
 	height: 100vh;
 	text-align: center;
 	background-image: url("/svg/rocket.svg");
-	background-position: bottom left;
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	background-size: 350px;
 }
 
 .top--text {
