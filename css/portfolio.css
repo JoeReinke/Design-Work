@@ -304,6 +304,18 @@ a {
 	color: #88f540;
 }
 
+.app--ai {
+	border: 2px solid #ff8c28;
+	background-color: #351902;
+	color: #ff8c28;
+}
+
+.app--id {
+	border: 2px solid #ff5aa6;
+	background-color: #350112;
+	color: #ff5aa6;
+}
+
 
 
 @keyframes navColor {
