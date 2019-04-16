@@ -290,9 +290,10 @@ a {
 	font-size: 16px;
 	margin: 20px 10px 20px 0;
 	padding: 5px;
-	width: 35px;
-	height: 35px;
-	text-align:center;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	text-align: center;
 }
 
 .app--ps {
