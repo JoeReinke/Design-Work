@@ -320,11 +320,12 @@ a {
 }
 
 .sketch {
-	content: url("/svg/sketch.svg");
+	content: url(/svg/sketch.svg);
 	display: inline-block;
-	width: 30px;
-	height: 30px;
-	margin: 0 10px 10px 0;
+	width: 34px;
+	height: 31px;
+	margin-bottom: -9px;
+	margin-right: 10px;
 }
 
 
