@@ -222,7 +222,7 @@ a {
 	background-image: url("/svg/rocket.svg");
 	background-position: bottom center;
 	background-repeat: no-repeat;
-	background-size: 350px;
+	background-size: 300px;
 }
 
 @media only screen and (max-width: 1050px) {
