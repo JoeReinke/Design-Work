@@ -225,6 +225,12 @@ a {
 	background-size: 350px;
 }
 
+@media only screen and (max-width: 1050px) {
+	.main--image {
+		display: none;
+	}
+}
+
 .top--text {
 	font-weight: 700;
 	font-size: 12px;
