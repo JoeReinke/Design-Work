@@ -272,6 +272,16 @@ a {
 	color: #484848;
 }
 
+.photoshop {
+	font-weight: 700;
+	font-size: 16px;
+	color: #00d9ff;
+	margin: 20px;
+	border: 2px solid #00d9ff;
+	background-color: #002731;
+	padding: 10px
+}
+
 
 
 @keyframes navColor {
