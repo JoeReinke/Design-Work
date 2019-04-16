@@ -265,6 +265,15 @@ a {
 	margin-bottom: 0px;
 }
 
+.text--body > h3 {
+	font-weight: 700;
+	font-size: 16px;
+	color: #0e81ff;
+	animation: textColor 75s ease infinite;
+	margin-bottom: 0px;
+	margin-top:50px;
+}
+
 .text--body > p {
 	font-weight: 400;
 	font-size: 14px;
@@ -272,14 +281,23 @@ a {
 	color: #484848;
 }
 
-.photoshop {
+.app {
 	font-weight: 500;
 	font-size: 16px;
-	color: #00d9ff;
-	margin: 20px 20px 20px 0;
+	margin: 20px 10px 20px 0;
+	padding: 5px
+}
+
+.app--ps {
 	border: 2px solid #00d9ff;
 	background-color: #002731;
-	padding: 10px
+	color: #00d9ff;
+}
+
+.app--dw {
+	border: 2px solid #88f540;
+	background-color: #15250d;
+	color: #88f540;
 }
 
 
