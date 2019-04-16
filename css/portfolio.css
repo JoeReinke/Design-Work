@@ -338,6 +338,33 @@ a {
 	margin-right: 10px;
 }
 
+.msw {
+	content: url(/svg/msw.svg);
+	display: inline-block;
+	width: 34px;
+	height: 31px;
+	margin-bottom: -9px;
+	margin-right: 10px;
+}
+
+.msx {
+	content: url(/svg/msx.svg);
+	display: inline-block;
+	width: 34px;
+	height: 31px;
+	margin-bottom: -9px;
+	margin-right: 10px;
+}
+
+.msp {
+	content: url(/svg/msp.svg);
+	display: inline-block;
+	width: 34px;
+	height: 31px;
+	margin-bottom: -9px;
+	margin-right: 10px;
+}
+
 
 
 @keyframes navColor {
