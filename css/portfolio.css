@@ -276,12 +276,25 @@ a {
 
 .text--body > h4 {
 	font-weight: 700;
-	font-size: 12px;
+	font-size: 14px;
 	margin-bottom: 15px;
 	color: #484848;
 }
 
 .text--body > p {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 22px;
+	color: #484848;
+}
+
+.text--body > ul {
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.text--body > ul > li {
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 22px;
