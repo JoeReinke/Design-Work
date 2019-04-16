@@ -19,6 +19,7 @@ a {
 	height: 100vh;
 	text-align: center;
 	animation: navColor 75s ease infinite;
+	background-color: #0e81ff;
 }
 
 .logo {
@@ -208,6 +209,18 @@ a {
 	margin-left: 115px;
 	margin-top: 45px;
 	display: inline-block;
+	max-width: 650px;
+}
+
+.main--image {
+	position: fixed;
+	left: 800px;
+	top: 0;
+	width: 400px;
+	height: 100vh;
+	text-align: center;
+	background-image: url("/svg/rocket.svg");
+	background-position: bottom left;
 }
 
 .top--text {
@@ -231,7 +244,6 @@ a {
 	display: block;
 	margin-left: 50px;
 	margin-top: 75px;
-	max-width: 600px;
 }
 
 .bold {
