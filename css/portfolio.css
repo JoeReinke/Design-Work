@@ -292,6 +292,9 @@ a {
 	list-style-type: none;
   margin: 0;
   padding: 0;
+	columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
 }
 
 .text--body > ul > li {
