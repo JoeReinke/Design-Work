@@ -288,6 +288,10 @@ a {
 
 .app--list {
 	display: inline-block;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 22px;
+	color: #484848;
 }
 
 .app {
