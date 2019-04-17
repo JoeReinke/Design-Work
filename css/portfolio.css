@@ -15,7 +15,7 @@ a {
 	position: fixed;
 	left: 0;
 	top: 0;
-	width: 100px;
+	width: 80px;
 	height: 100vh;
 	text-align: center;
 	animation: navColor 75s ease infinite;
@@ -25,7 +25,7 @@ a {
 .logo {
 	content: url("/svg/logoV2.svg");
 	margin: 40px auto 20px auto;
-	width: 64px;
+	width: 40px;
 	cursor: pointer;
 }
 
