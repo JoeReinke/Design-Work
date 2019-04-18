@@ -453,7 +453,8 @@ a {
 .featured--column {
 	display: inline-block;
 	max-width: 400px;
-	margin: 0 25px 25px 25px;
+	margin: 100px 25px 25px 25px;
+	vertical-align: top;
 }
 
 
@@ -481,7 +482,7 @@ a {
 }
 
 .far {
-	margin-top: 25px;
+	margin-top: 150px;
 
 }
 
