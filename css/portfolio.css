@@ -29,10 +29,11 @@ a {
 	cursor: pointer;
 }
 
-.center {
-	position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+.vertical--center {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 100%;
 }
 
 .rounded {
