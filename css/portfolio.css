@@ -474,17 +474,22 @@ a {
 .featured--type {
 	display: inline-block;
 	vertical-align: middle;
+	margin-top: 6px;
+	margin-left: 10px;
+	width: 40px;
 }
 
 .web--grey {
 	content: url(/svg/web--grey.svg);
-	width: 40px;
 }
 
 .arrow--link {
-	display: inline-block;
-	content: url(/svg/arrow.svg);
-	width: 25px;
+		display: inline-block;
+    content: url(/svg/arrow.svg);
+    width: 25px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 15px;
 }
 
 @media screen and (max-width: 1240px) {
