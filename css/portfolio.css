@@ -40,6 +40,26 @@ a {
 	z-index: 1;
 }
 
+@media screen and (max-height: 600px) {
+	.logo {
+		content: url("/svg/logoV2.svg");
+		margin: 40px auto 20px auto;
+		width: 46px;
+		cursor: pointer;
+		z-index: 100;
+		position: relative;
+		left: 0;
+	}
+	.vertical--center {
+		position: relative;
+		top: 0;
+		transform: translateY(0%);
+		width: 100%;
+		z-index: 1;
+	}
+
+}
+
 .rounded {
     animation: navColor 75s ease infinite;
     z-index: 1;
