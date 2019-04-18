@@ -27,6 +27,7 @@ a {
 	margin: 40px auto 20px auto;
 	width: 46px;
 	cursor: pointer;
+	z-index: 100;
 }
 
 .vertical--center {
