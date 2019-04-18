@@ -470,6 +470,27 @@ a {
 	width: 100%;
 }
 
+.near {
+
+}
+
+@media screen and (max-width: 1240px) {
+	.near {
+		display: none;
+	}
+}
+
+.far {
+	margin-top: 25px;
+
+}
+
+@media screen and (max-width: 1590px) {
+	.far {
+		display: none;
+	}
+}
+
 
 
 @keyframes navColor {
