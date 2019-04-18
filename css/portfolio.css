@@ -138,6 +138,7 @@ a {
 
 .nav--web:hover > .nav--image {
 	content: url("/svg/webBlue.svg");
+	cursor: pointer;
 }
 
 
