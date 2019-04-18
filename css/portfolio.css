@@ -205,9 +205,12 @@ a {
 	content: url("/svg/otherBlue.svg");
 }
 
+
+/*------------------------------------------Body Styles--------------------------------------------------------*/
+
 .main--body {
 	margin-left: 150px;
-	margin-top: 45px;
+	margin-top: 40px;
 	display: inline-block;
 	max-width: 650px;
 }
