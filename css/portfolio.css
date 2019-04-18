@@ -243,7 +243,7 @@ a {
 /*------------------------------------------Body Styles--------------------------------------------------------*/
 
 .main--body {
-	margin-left: 150px;
+	margin-left: 115px;
 	margin-right: 50px;
 	margin-top: 36px;
 	display: inline-block;
@@ -263,11 +263,7 @@ a {
 	background-size: 300px;
 }
 
-@media only screen and (max-width: 1050px) {
-	.main--image {
-		display: none;
-	}
-}
+
 
 .top--text {
 	font-weight: 700;
@@ -505,7 +501,7 @@ a {
     margin-right: 15px;
 }
 
-@media screen and (max-width: 1240px) {
+@media screen and (max-width: 1210px) {
 	.near {
 		display: none;
 	}
@@ -516,7 +512,7 @@ a {
 
 }
 
-@media screen and (max-width: 1590px) {
+@media screen and (max-width: 1550px) {
 	.far {
 		display: none;
 	}
