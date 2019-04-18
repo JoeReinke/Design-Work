@@ -53,6 +53,13 @@ a {
 		display: none;
 	}
 
+	.main--body {
+		margin-left: 70px;
+		margin-top: 36px;
+		display: inline-block;
+		max-width: 650px;
+	}
+
 }
 
 .rounded {
