@@ -462,6 +462,11 @@ a {
 	border-radius: 8px;
 	width: 300px;
 	height: 350px;
+	overflow: hidden;
+}
+
+.featured--ctn > img {
+	width: 100%;
 }
 
 
