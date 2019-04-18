@@ -473,11 +473,12 @@ a {
 
 .featured--type {
 	display: inline-block;
+	vertical-align: middle;
 }
 
 .web--grey {
 	content: url(/svg/web--grey.svg);
-	width: 25px;
+	width: 40px;
 }
 
 .arrow--link {
