@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="30px" viewBox="0 0 41 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>print--grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portfolio-Home" transform="translate(-1319.000000, -540.000000)">
+            <g id="print--grey" transform="translate(1319.000000, 540.000000)">
+                <rect id="Rectangle-4" fill="#FFFFFF" x="0" y="0" width="41" height="30" rx="3"></rect>
+                <g id="printBlue" transform="translate(10.000000, 5.000000)" stroke="#B3B3B3">
+                    <path d="M5,3 L15.9617916,3" id="Stroke-1"></path>
+                    <path d="M5,6 L15.9617916,6" id="Stroke-2"></path>
+                    <path d="M5,9 L13.6128362,9" id="Stroke-3"></path>
+                    <path d="M3,17.412427 L3,0.55905467 C3,0.2503935 3.25521299,0 3.57017377,0 L17.9000059,0 C18.2148061,0 18.4700191,0.2503935 18.4700191,0.55905467 L18.4700191,18.3442373" id="Stroke-4"></path>
+                    <path d="M17.1018403,19.531809 L1.63182128,19.531809 C0.730625491,19.531809 0,18.8155891 0,17.9319678 L0,17.5590547 C0,17.2503935 0.255373605,17 0.570334386,17 L14.9011302,17 C15.2167334,17 15.4722676,17.2513384 15.471304,17.560787 L15.4701797,17.9319678 C15.4701797,18.8155891 16.2006446,19.531809 17.1018403,19.531809 C18.0030361,19.531809 18.733501,18.8155891 18.733501,17.9319678" id="Stroke-6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="30px" viewBox="0 0 41 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>web--grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portfolio-Home" transform="translate(-948.000000, -455.000000)">
+            <g id="web--grey" transform="translate(948.000000, 455.000000)">
+                <rect id="Rectangle-4" fill="#FFFFFF" x="0" y="0" width="41" height="30" rx="3"></rect>
+                <g id="Group" transform="translate(9.000000, 6.000000)" stroke="#B3B3B3">
+                    <path d="M22.0868907,15 L0.913109301,15 C0.408982557,15 0,14.5885337 0,14.0810022 L0,0.918997848 C0,0.411312634 0.408982557,0 0.913109301,0 L22.0868907,0 C22.5911702,0 23,0.411312634 23,0.918997848 L23,14.0810022 C23,14.5885337 22.5911702,15 22.0868907,15 Z" id="Stroke-3"></path>
+                    <path d="M0,12 L23,12" id="Stroke-5"></path>
+                    <path d="M10.5,15 L10.5,16.891244 C10.5,17.7796706 9.82842999,18.5 9,18.5" id="Stroke-7"></path>
+                    <path d="M14,18.5 C13.1714919,18.5 12.5,17.7796706 12.5,16.891244 L12.5,15" id="Stroke-9"></path>
+                    <path d="M6,18.5 L17,18.5" id="Stroke-11"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
