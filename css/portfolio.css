@@ -501,7 +501,7 @@ a {
     margin-right: 15px;
 }
 
-@media screen and (max-width: 1210px) {
+@media screen and (max-width: 1220px) {
 	.near {
 		display: none;
 	}
@@ -512,7 +512,7 @@ a {
 
 }
 
-@media screen and (max-width: 1550px) {
+@media screen and (max-width: 1560px) {
 	.far {
 		display: none;
 	}
