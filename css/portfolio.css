@@ -462,7 +462,7 @@ a {
 	box-shadow: 0 2px 30px 0 rgba(179,179,179,0.50);
 	border-radius: 8px;
 	width: 300px;
-	height: 250px;
+	height: 275px;
 	margin-bottom: 50px;
 	overflow: hidden;
 }
@@ -471,6 +471,20 @@ a {
 	width: 100%;
 }
 
+.featured--type {
+	display: inline-block;
+}
+
+.web--grey {
+	content: url(/svg/web--grey.svg);
+	width: 25px;
+}
+
+.arrow--link {
+	display: inline-block;
+	content: url(/svg/arrow.svg);
+	width: 25px;
+}
 
 @media screen and (max-width: 1240px) {
 	.near {
@@ -479,7 +493,7 @@ a {
 }
 
 .far {
-	margin-top: 200px;
+	margin-top: 300px;
 
 }
 
