@@ -453,7 +453,7 @@ a {
 .featured--column {
 	display: inline-block;
 	max-width: 400px;
-	margin: 0 25px;
+	margin: 0 25px 25px 25px;
 }
 
 
