@@ -28,6 +28,8 @@ a {
 	width: 46px;
 	cursor: pointer;
 	z-index: 100;
+	position: absolute;
+	left: 20%;
 }
 
 .vertical--center {
@@ -35,6 +37,7 @@ a {
 	top: 50%;
 	transform: translateY(-50%);
 	width: 100%;
+	z-index: 1;
 }
 
 .rounded {
