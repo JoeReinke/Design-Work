@@ -29,6 +29,12 @@ a {
 	cursor: pointer;
 }
 
+.center {
+	position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 .rounded {
     animation: navColor 75s ease infinite;
     z-index: 1;
