@@ -53,14 +53,14 @@ a {
 .nav--web {
     width: 100%;
     margin: -10px auto;
-    padding: 35px 0px 35px 0px;
+    padding: 39px 0px 38px 0px;
     cursor: pointer;
 }
 
 .nav--activeweb {
     width: 100%;
     margin: -10px auto;
-    padding: 35px 0px 35px 0px;
+    padding: 39px 0px 38px 0px;
     cursor: pointer;
 		background-color: #fff;
 }
@@ -97,7 +97,7 @@ a {
 	content: url("/svg/web.svg");
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
-	width: 28px;
+	width: 26px;
 	height: 23px;
 }
 
@@ -105,7 +105,7 @@ a {
 	content: url("/svg/webBlue.svg");
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
-	width: 28px;
+	width: 26px;
 	height: 23px;
 	background-color: #fff;
 }
@@ -118,7 +118,7 @@ a {
 .nav--print {
 	width: 100%;
     margin: -10px auto;
-    padding: 35px 0px 38px 0px;
+    padding: 38px 0px 38px 0px;
     cursor: pointer;
 }
 
@@ -126,7 +126,7 @@ a {
 	content: url("/svg/print.svg");
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
-	width: 21px;
+	width: 20px;
 	height: 24px;
 }
 
@@ -150,7 +150,7 @@ a {
 .nav--photo {
 	width: 100%;
     margin: -10px auto;
-    padding: 38px 0px 40px 0px;
+    padding: 41px 0px 42px 0px;
     cursor: pointer;
 }
 
@@ -184,7 +184,7 @@ a {
 .nav--other {
 	width: 100%;
     margin: -10px auto;
-    padding: 35px 0px 35px 0px;
+    padding: 36px 0px 35px 0px;
     cursor: pointer;
 }
 
@@ -192,7 +192,7 @@ a {
 	content: url("/svg/other.svg");
 	margin: 0 auto;
 	transition: content .25s ease-in-out;
-	width: 28px;
+	width: 24px;
 	height: 29px;
 }
 
