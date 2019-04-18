@@ -484,6 +484,19 @@ a {
 	content: url(/svg/web--grey.svg);
 }
 
+.other--grey {
+	content: url(/svg/other--grey.svg);
+}
+
+.print--grey {
+	content: url(/svg/print--grey.svg);
+}
+
+.photo--grey {
+	content: url(/svg/photo--grey.svg);
+}
+
+
 .arrow--link {
 		display: inline-block;
     content: url(/svg/arrow.svg);
