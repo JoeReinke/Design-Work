@@ -316,7 +316,7 @@ body {
 }
 
 .italic {
-	font-weight: 400i;
+	font-style: italic;
 }
 
 .blue {
