@@ -507,7 +507,7 @@ body {
 	margin-left: 100px;
 }
 
-@media screen and (max-width: 1295px) {
+@media screen and (max-width: 1310px) {
 	.near {
 		display: none;
 	}
@@ -521,7 +521,7 @@ body {
 
 }
 
-@media screen and (max-width: 1645px) {
+@media screen and (max-width: 1660px) {
 	.mid {
 		display: none;
 	}
@@ -531,7 +531,7 @@ body {
 
 }
 
-@media screen and (max-width: 1995px) {
+@media screen and (max-width: 2015px) {
 	.far {
 		display: none;
 	}
