@@ -315,6 +315,10 @@ body {
 	font-weight: 500;
 }
 
+.italic {
+	font-weight: 400i;
+}
+
 .blue {
 	animation: textColor 75s ease infinite;
 }
