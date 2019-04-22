@@ -501,6 +501,10 @@ a {
     margin-right: 15px;
 }
 
+.near {
+	margin-left: 5%;
+}
+
 @media screen and (max-width: 1220px) {
 	.near {
 		display: none;
