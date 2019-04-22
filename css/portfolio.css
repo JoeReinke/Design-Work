@@ -453,7 +453,9 @@ body {
 	margin: 150px 25px 25px 25px;
 	vertical-align: top;
 }
-
+.web--design--ctn > .featured--ctn {
+	margin-right: 50px;
+}
 
 .featured--ctn {
 	box-shadow: 0 2px 30px 0 rgba(179,179,179,0.60);
