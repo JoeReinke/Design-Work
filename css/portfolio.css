@@ -20,6 +20,45 @@ body {
 	margin: 0 0 0 150px;
 }
 
+h1 {
+	font-weight: 700;
+	font-size: 48px;
+	margin-top: 0;
+	color: #0e81ff;
+	animation: textColor 75s ease infinite;
+}
+
+h2 {
+	font-weight: 700;
+	font-size: 16px;
+	color: #0e81ff;
+	animation: textColor 75s ease infinite;
+	margin-bottom: 0px;
+}
+
+h3 {
+	font-weight: 700;
+	font-size: 16px;
+	color: #0e81ff;
+	animation: textColor 75s ease infinite;
+	margin-bottom: 15px;
+	margin-top:50px;
+}
+
+h4 {
+	font-weight: 700;
+	font-size: 14px;
+	margin-bottom: 15px;
+	color: #484848;
+}
+
+p {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 22px;
+	color: #484848;
+}
+
 .nav {
 	position: fixed;
 	left: 0;
@@ -333,44 +372,9 @@ body {
 	margin: 25px 0 35px;
 }
 
-.text--body > h1 {
-	font-weight: 700;
-	font-size: 48px;
-	margin-top: 0;
-	color: #0e81ff;
-	animation: textColor 75s ease infinite;
-}
 
-.text--body > h2 {
-	font-weight: 700;
-	font-size: 16px;
-	color: #0e81ff;
-	animation: textColor 75s ease infinite;
-	margin-bottom: 0px;
-}
 
-.text--body > h3 {
-	font-weight: 700;
-	font-size: 16px;
-	color: #0e81ff;
-	animation: textColor 75s ease infinite;
-	margin-bottom: 15px;
-	margin-top:50px;
-}
 
-.text--body > h4 {
-	font-weight: 700;
-	font-size: 14px;
-	margin-bottom: 15px;
-	color: #484848;
-}
-
-.text--body > p {
-	font-weight: 400;
-	font-size: 14px;
-	line-height: 22px;
-	color: #484848;
-}
 
 .text--body > ul {
 	list-style-type: none;
