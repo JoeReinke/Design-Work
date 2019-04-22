@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="25px" height="23px" viewBox="0 0 25 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>Chat</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Portfolio-Home" transform="translate(-27.000000, -1019.000000)" stroke="#FFFFFF" stroke-width="2">
-            <path d="M44.638,1035.503 L44.101,1035.503 L38.888,1039.478 L38.888,1035.503 L33.385,1035.503 C30.423,1035.503 28,1033.08 28,1030.119 L28,1025.383 C28,1022.422 30.423,1020 33.385,1020 L44.638,1020 C47.599,1020 50.022,1022.422 50.022,1025.383 L50.022,1030.119 C50.022,1033.08 47.599,1035.503 44.638,1035.503 Z" id="Chat"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 25 23" style="enable-background:new 0 0 25 23;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2;}
+</style>
+<title>Chat</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Portfolio-Home" transform="translate(-27.000000, -1019.000000)">
+		<path id="Chat" class="st0" d="M44.6,1035.5h-0.5l-5.2,5v-5h-5.5c-3,0-5.4-2.4-5.4-5.4v-4.7c0-3,2.4-5.4,5.4-5.4h11.3
+			c3,0,5.4,2.4,5.4,5.4v4.7C50,1033.1,47.6,1035.5,44.6,1035.5z"/>
+	</g>
+</g>
 </svg>
