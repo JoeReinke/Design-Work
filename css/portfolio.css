@@ -472,7 +472,7 @@ body {
 	margin-left: 100px;
 }
 
-@media screen and (max-width: 1220px) {
+@media screen and (max-width: 1250px) {
 	.near {
 		display: none;
 	}
@@ -493,7 +493,7 @@ body {
 
 }
 
-@media screen and (max-width: 1970px) {
+@media screen and (max-width: 1950px) {
 	.far {
 		display: none;
 	}
