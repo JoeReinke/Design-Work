@@ -479,7 +479,7 @@ a {
 
 }
 
-@media screen and (max-width: 1580px) {
+@media screen and (max-width: 1600px) {
 	.mid {
 		display: none;
 	}
@@ -489,7 +489,7 @@ a {
 
 }
 
-@media screen and (max-width: 1955px) {
+@media screen and (max-width: 1970px) {
 	.far {
 		display: none;
 	}
