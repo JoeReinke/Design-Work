@@ -372,6 +372,8 @@ body {
 	columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
+	column-fill: balance;
+	-moz-column-fill: balance;
 }
 
 .text--body > ul > li {
@@ -380,7 +382,10 @@ body {
 	line-height: 22px;
 	color: #484848;
 	page-break-inside: avoid;
+	break-inside: avoid;
 	margin-right: 20px;
+	-webkit-column-break-inside: avoid;
+	break-inside: avoid-column;
 }
 
 .app--ctn {
