@@ -40,7 +40,7 @@ body {
 .chat {
 	content: url("/svg/chat.svg");
 	margin: 0 auto;
-	width: 22px;
+	width: 26px;
 	cursor: pointer;
 	z-index: 100;
 	position: absolute;
