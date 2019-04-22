@@ -462,6 +462,7 @@ body {
 	height: 275px;
 	margin-bottom: 50px;
 	overflow: hidden;
+	display: inline-block;
 }
 
 .featured--ctn > img {
