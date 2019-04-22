@@ -511,13 +511,13 @@ a {
 	}
 }
 
-.far {
+.mid {
 	margin-top: 250px;
 
 }
 
 @media screen and (max-width: 1560px) {
-	.far {
+	.mid {
 		display: none;
 	}
 }
