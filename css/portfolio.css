@@ -406,43 +406,6 @@ a {
 	color: #ff5aa6;
 }
 
-.sketch {
-	content: url(/svg/sketch.svg);
-	display: inline-block;
-	width: 34px;
-	height: 31px;
-	margin-bottom: -9px;
-	margin-right: 10px;
-}
-
-.msw {
-	content: url(/svg/msw.svg);
-	display: inline-block;
-	width: 34px;
-	height: 31px;
-	margin-bottom: -9px;
-	margin-right: 10px;
-}
-
-.msx {
-	content: url(/svg/msx.svg);
-	display: inline-block;
-	width: 34px;
-	height: 31px;
-	margin-bottom: -9px;
-	margin-right: 10px;
-}
-
-.msp {
-	content: url(/svg/msp.svg);
-	display: inline-block;
-	width: 34px;
-	height: 31px;
-	margin-bottom: -9px;
-	margin-right: 10px;
-}
-
-
 
 /*-------------------------------------------Featured-----------------------------------*/
 
@@ -516,8 +479,19 @@ a {
 
 }
 
-@media screen and (max-width: 1560px) {
+@media screen and (max-width: 1580px) {
 	.mid {
+		display: none;
+	}
+}
+
+.far {
+	margin-top: 250px;
+
+}
+
+@media screen and (max-width: 1955px) {
+	.far {
 		display: none;
 	}
 }
