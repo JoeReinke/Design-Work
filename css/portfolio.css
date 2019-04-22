@@ -34,6 +34,17 @@ body {
 	cursor: pointer;
 	z-index: 100;
 	position: absolute;
+	left: 17px;
+}
+
+.chat {
+	content: url("/svg/chat.svg");
+	margin: 0 auto;
+	width: 22px;
+	cursor: pointer;
+	z-index: 100;
+	position: absolute;
+	bottom: 40px
 	left: 20%;
 }
 
@@ -46,6 +57,10 @@ body {
 
 @media screen and (max-height: 600px) {
 	.logo {
+		display: none;
+	}
+
+	.chat {
 		display: none;
 	}
 
