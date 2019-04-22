@@ -247,7 +247,7 @@ body {
 /*------------------------------------------Body Styles--------------------------------------------------------*/
 
 .main--body {
-	margin-left: 115px;
+	margin-left: 150px;
 	margin-right: 50px;
 	margin-top: 36px;
 	display: inline-block;
@@ -472,7 +472,7 @@ body {
 	margin-left: 100px;
 }
 
-@media screen and (max-width: 1260px) {
+@media screen and (max-width: 1295px) {
 	.near {
 		display: none;
 	}
@@ -483,7 +483,7 @@ body {
 
 }
 
-@media screen and (max-width: 1610px) {
+@media screen and (max-width: 1645px) {
 	.mid {
 		display: none;
 	}
@@ -493,7 +493,7 @@ body {
 
 }
 
-@media screen and (max-width: 1960px) {
+@media screen and (max-width: 1995px) {
 	.far {
 		display: none;
 	}
