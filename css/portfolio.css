@@ -379,6 +379,7 @@ body {
 	font-size: 14px;
 	line-height: 22px;
 	color: #484848;
+	page-break-inside: avoid;
 }
 
 .app--ctn {
