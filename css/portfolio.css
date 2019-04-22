@@ -12,6 +12,8 @@ a {
 	cursor: pointer;
 	color: #0e81ff;
 	font-weight: 500;
+	animation: textColor 75s ease infinite;
+	border-bottom: solid 1px;
 }
 
 body {
