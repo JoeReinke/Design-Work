@@ -449,7 +449,7 @@ body {
 
 .featured--column {
 	display: inline-block;
-	max-width: 400px;
+	max-width: 300px;
 	margin: 150px 25px 25px 25px;
 	vertical-align: top;
 }
