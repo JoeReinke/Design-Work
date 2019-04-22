@@ -311,6 +311,10 @@ body {
 	font-weight: 700;
 }
 
+.med {
+	font-weight: 500;
+}
+
 .blue {
 	animation: textColor 75s ease infinite;
 }
