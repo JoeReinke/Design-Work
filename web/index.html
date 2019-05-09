@@ -1,107 +1,124 @@
-<!doctype html>
+<!DOCTYPE html>
+<html>
 <head>
-  <link href="/css/portfolio.css" rel="stylesheet" type="text/css">
-  <link rel="icon" type="image/png" href="/img/jR.png">
-  <title>Joe Reinke Design</title>
+  <title>Slick Playground</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="./slick/slick.css">
+  <link rel="stylesheet" type="text/css" href="./slick/slick-theme.css">
+  <style type="text/css">
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
 
+  * {
+    box-sizing: border-box;
+  }
+
+  .slider {
+      width: 80%;
+      max-width: 1200px;
+
+      margin: 100px auto;
+      overflow: visible;
+  }
+
+  .slick-list {
+    overflow: visible; !important
+  }
+
+  .slick-slide {
+    margin: 0px 100px;
+  }
+
+  .slick-slide img {
+    width: 100%;
+    max-height: 633px;
+    margin: 0 auto;
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.50);
+    border-radius: 3%;
+  }
+
+  .slick-prev:before,
+  .slick-next:before {
+    color: black;
+  }
+
+
+  .slick-slide {
+    transition: all ease-in-out .3s;
+    opacity: .2;
+    transform: scale(.5);
+  }
+
+  .slick-slide p {
+    opacity: 0;
+  }
+
+  .slick-center {
+    transform: scale(1);
+  }
+
+  .slick-center p {
+    opacity: 1;
+  }
+
+  .slick-active {
+    opacity: .5;
+  }
+
+  .slick-current {
+    opacity: 1;
+  }
+  </style>
 </head>
 <body>
-<div class="nav">
 
-  <a href="/"><div class="logo"></div></a>
-<div class="vertical--center">
-	<div class="rounded"></div>
-    <div class="nav--activeweb nav--active">
-      <div class="nav--image"></div>
-        <!--<img class="nav--image" src="/svg/web.svg" alt=""/>-->
+  <section class="center slider">
+    <div>
+      <p>test</p>
+      <img src="https://www.joereinkedesign.com/img/screens/CompScreen-Renew.png">
+    </div>
+    <div>
+      <p>test</p>
+      <img src="https://www.joereinkedesign.com/img/screens/CompScreen-BB.png">
+    </div>
+    <div>
+      <p>test</p>
+      <img src="https://www.joereinkedesign.com/img/screens/CompScreen-CBF.png">
+    </div>
+    <div>
+      <p>test</p>
+      <img src="https://www.joereinkedesign.com/img/screens/CompScreen-FNL.png">
+    </div>
+    <div>
+      <img src="https://www.joereinkedesign.com/img/screens/CompScreen-SHD.png">
+    </div>
+    <div>
+      <img src="https://www.joereinkedesign.com/img/screens/CompScreen-SHF.png">
+    </div>
+    <div>
+      <img src="https://www.joereinkedesign.com/img/screens/CompScreen-PK.png">
     </div>
 
+  </section>
 
-	<div class="rounded"></div>
+  <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+  <script src="./slick/slick.min.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+    $(document).on('ready', function() {
+      $(".center").slick({
+        dots: true,
+        infinite: true,
+        arrows: false,
+        centerMode: true,
+        infinite: false,
+        centerPadding: "50px",
+        slidesToShow: 1,
+        slidesToScroll: 1,
+      });
+    });
+</script>
 
-	<div class="nav--print nav--hover">
-		<div class="nav--image"></div>
-		<!--<p>Print</p>-->
-	</div>
-
-	<div class="rounded"></div>
-
-	<div class="nav--photo nav--hover">
-		<div class="nav--image"></div>
-		<!--<p>Photo</p>-->
-	</div>
-
-	<div class="rounded"></div>
-
-	<div class="nav--other nav--hover">
-		<div class="nav--image"></div>
-		<!--<p>Other</p>-->
-	</div>
-
-	<div class="rounded"></div>
-
-</div>
-<a href="/#contact"><div class="chat"></div></a>
-</div>
-
-
-<div class="main--body" style="display: block;">
-  <h3 style="margin-bottom: 50px;">Web Design</h3>
-</div>
-<div class="web--design--ctn">
-  <div class="featured--ctn">
-    <img src="/img/bf--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-  <div class="featured--ctn">
-    <img src="/img/bb--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-  <div class="featured--ctn">
-    <img src="/img/frolicnews--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-  <div class="featured--ctn">
-    <img src="/img/frolicchurch--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-  <div class="featured--ctn">
-    <img src="/img/previewkit--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-  <div class="featured--ctn">
-    <img src="/img/renew--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-  <div class="featured--ctn">
-    <img src="/img/shd--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-  <div class="featured--ctn">
-    <img src="/img/shf--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-  <div class="featured--ctn">
-    <img src="/img/afwires--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-</div>
 </body>
+</html>
