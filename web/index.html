@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Slick Playground</title>
+  <title>Joe Reinke Design</title>
   <meta charset="UTF-8">
+  <link href="/css/portfolio.css" rel="stylesheet" type="text/css">
+  <link rel="icon" type="image/png" href="/img/jR.png">
   <link rel="stylesheet" type="text/css" href="/slick/slick.css">
   <link rel="stylesheet" type="text/css" href="/slick/slick-theme.css">
   <style type="text/css">
@@ -52,7 +54,7 @@
 
   .slick-slide {
     transition: all ease-in-out .3s;
-    opacity: .2;
+    opacity: .8;
     transform: scale(.5);
   }
 
@@ -75,6 +77,28 @@
   .slick-current {
     opacity: 1;
   }
+
+  .slick-dots {
+    position: absolute;
+    bottom: -75px;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+  }
+
+  .slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 0 20px;
+    padding: 0;
+    cursor: pointer;
+}
+
   </style>
 </head>
 <body>
