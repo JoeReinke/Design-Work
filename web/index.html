@@ -31,12 +31,20 @@
     width: 100%;
   }
 
+
+
   .slider {
       width: 80%;
       max-width: 1200px;
       margin: 5% auto;
       overflow: visible;
   }
+
+  @media only screen and (max-width: 750px) {
+      .slider > div > img {
+        width: 100%;
+      }
+    }
 
   .slick-list {
     overflow: visible; !important
