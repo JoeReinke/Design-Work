@@ -10,7 +10,7 @@
 a {
 	text-decoration: none;
 	cursor: pointer;
-	color: #0e81ff;
+	color: #4068E4;
 	font-weight: 600;
 	animation: textColor 75s ease infinite;
 	border-bottom: solid 1px;
@@ -24,23 +24,20 @@ h1 {
 	font-weight: 700;
 	font-size: 72px;
 	margin-top: 0;
-	color: #0e81ff;
-	animation: textColor 75s ease infinite;
+	color: #4068E4;
 }
 
 h2 {
 	font-weight: 700;
 	font-size: 16px;
-	color: #0e81ff;
-	animation: textColor 75s ease infinite;
+	color: #4068E4;
 	margin-bottom: 0px;
 }
 
 h3 {
 	font-weight: 700;
 	font-size: 16px;
-	color: #0e81ff;
-	animation: textColor 75s ease infinite;
+	color: #4068E4;
 	margin-bottom: 15px;
 	margin-top:50px;
 }
@@ -67,7 +64,7 @@ p {
 	height: 100vh;
 	text-align: center;
 	animation: navColor 75s ease infinite;
-	background-color: #0e81ff;
+	background-color: #4068E4;
 }
 
 .logo {
@@ -156,14 +153,14 @@ p {
 	font-weight: 600;
 	font-size: 11px;
 	visibility: hidden;
-	color: #0e81ff;
+	color: #4068E4;
 	margin-bottom: 0px;
 }
 
 .nav--activeweb p {
 	font-weight: 600;
 	font-size: 11px;
-	color: #0e81ff;
+	color: #4068E4;
 	margin-bottom: 0px;
 }
 
@@ -221,7 +218,7 @@ p {
 .nav--print p {
 	font-weight: 600;
 	font-size: 11px;
-	color: #0e81ff;
+	color: #4068E4;
 	visibility: hidden;
 	margin-bottom: 0px;
 }
@@ -253,7 +250,7 @@ p {
 .nav--photo p {
 	font-weight: 600;
 	font-size: 11px;
-	color: #0e81ff;
+	color: #4068E4;
 	visibility: hidden;
 	margin-bottom: 0px;
 }
@@ -287,7 +284,7 @@ p {
 .nav--other p {
 	font-weight: 600;
 	font-size: 11px;
-	color: #0e81ff;
+	color: #4068E4;
 	visibility: hidden;
 	margin-bottom: 0px;
 }
