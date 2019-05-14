@@ -191,6 +191,7 @@
         slidesToScroll: 1,
         variableWidth: true,
         focusOnChange: true,
+        mobileFirst:true,
         centerPadding: '50px',
         responsive: [
         {
@@ -208,7 +209,9 @@
           }
         }, {
           breakpoint: 600,
-          settings: "unslick" // destroys slick
+          settings: {
+            "unslick" // destroys slick
+          }
         },
 
       ]
