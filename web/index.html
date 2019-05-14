@@ -3,6 +3,7 @@
 <head>
   <title>Web Design</title>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="/css/portfolio.css">
   <link rel="stylesheet" type="text/css" href="/slick/slick.css">
   <link rel="stylesheet" type="text/css" href="/slick/slick-theme.css">
@@ -29,12 +30,6 @@
     overflow-x: hidden;
     width: 100%;
   }
-
-  @media only screen and (max-width: 720px) {
-         .bodyOverflow {
-           display: none;
-        }
-    }
 
   .slider {
       width: 80%;
@@ -212,6 +207,9 @@
             variableWidth: false,
             centerPadding: '0px',
           }
+        }, {
+          breakpoint: 750,
+          settings:  "unslick"
         },
 
       ]
