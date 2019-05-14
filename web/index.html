@@ -30,6 +30,12 @@
     width: 100%;
   }
 
+  @media only screen and (max-width: 720px) {
+         .bodyOverflow {
+           display: none;
+        }
+    }
+
   .slider {
       width: 80%;
       max-width: 1200px;
@@ -206,9 +212,6 @@
             variableWidth: false,
             centerPadding: '0px',
           }
-        }, {
-          breakpoint: 750,
-          settings:  "unslick"
         },
 
       ]
