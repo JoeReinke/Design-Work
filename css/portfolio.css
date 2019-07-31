@@ -109,7 +109,7 @@ p {
 }
 
 .header--nav {
-	max-width: 900px;
+	max-width: 1280px;
 	min-width: 300px;
 	width: 100%;
 	margin: 0 auto;
@@ -135,6 +135,20 @@ p {
 	background-color: #4068E4;
 }
 
+
+
+/*--------------------Work----------------------------------*/
+.work--ctn {
+	max-width: 1280px;
+	min-width: 300px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.work {
+	max-width: 600px;
+	max-height: 400px;
+}
 
 @media screen and (max-height: 650px) {
 	.logo {
