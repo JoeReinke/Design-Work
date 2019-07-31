@@ -221,6 +221,7 @@ vertical-align: middle;
 
 .text--holder {
 	display: block;
+	padding: 20px 10px;
 }
 
 @media screen and (max-width: 800px) {
