@@ -68,15 +68,6 @@ p {
 	background-color: #4068E4;
 }
 
-.logo {
-	content: url("/svg/logoV2.svg");
-	margin: 40px auto 20px auto;
-	width: 46px;
-	cursor: pointer;
-	z-index: 100;
-	position: absolute;
-	left: 17px;
-}
 
 .chat {
 	content: url("/svg/chat.svg");
