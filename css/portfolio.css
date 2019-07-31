@@ -150,6 +150,7 @@ p {
 .header--nav > p  {
 display: inline-block;
 padding-left: 50px;
+	margin: -40px 0 0 20px;
 }
 
 
@@ -158,7 +159,6 @@ padding-left: 50px;
 	cursor: pointer;
 	color: #FFF;
 	font-weight: 600;
-	animation: textColor 75s ease infinite;
 	border-bottom: solid 1px;
 }
 
