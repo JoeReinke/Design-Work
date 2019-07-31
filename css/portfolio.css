@@ -73,6 +73,7 @@ p {
 	width: 46px;
 	cursor: pointer;
 	left: 17px;
+	display: inline-block;
 }
 
 
@@ -92,10 +93,16 @@ p {
 }
 
 .header--logo {
-
+ display: inline-block;
+}
+.header--text {
+	display: inline-block;
 }
 
-
+.header--text > h1 {
+	color: #fff;
+	font-weight: 700;
+}
 .header {
 	width: 100%;
 	animation: navColor 75s ease infinite;
