@@ -69,7 +69,7 @@ p {
 
 .logo {
 	content: url("/svg/logoV2.svg");
-	margin: 40px auto 20px auto;
+	margin: 7px auto 0px auto;
 	width: 46px;
 	cursor: pointer;
 	z-index: 100;
