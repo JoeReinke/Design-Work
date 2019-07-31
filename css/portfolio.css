@@ -149,6 +149,7 @@ p {
 	width: 47%;
 	margin: 1%;
 	max-width: 600px;
+	max-height: 450px;
 	display: inline-block;
 	overflow: hidden;
 	border-radius: 10px;
