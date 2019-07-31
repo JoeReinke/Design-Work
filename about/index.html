@@ -65,7 +65,7 @@
       <li style="margin-bottom:20px;"><span class="bold">Linkedin</span><br /><a href="https://www.linkedin.com/in/joe-reinke-58792541/" target="_blank">Joe Reinke</a></li>
     </ul>
 
-    <!--<div class="app--ctn">
+    <div class="app--ctn">
       <div><div class="app app--ps">Ps</div><p class="app--list">Photoshop</p></div>
       <div><div class="app app--dw">Dw</div><p class="app--list">Dreamweaver</p></div>
     </div>
@@ -80,97 +80,8 @@
     <div class="app--ctn">
       <div><div class="msp"></div><p class="app--list">Microsoft PowerPoint</p></div>
       <div><div class="msx"></div><p class="app--list">Microsoft Excel</p></div>
-    </div>-->
-  </div>
-</div>
-
-<div class="featured--column near">
-  <div class="featured--ctn">
-    <img src="/img/bf--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-    <div class="featured--ctn">
-      <img src="/img/astro--preview.jpg" />
-      <div class="featured--type print--grey"></div>
-      <div class="arrow--link"></div>
     </div>
   </div>
-
-
-
-<div class="featured--column mid">
-
-  <div class="featured--ctn">
-    <img src="/img/bb--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-  <div class="featured--ctn">
-    <img src="/img/dia--preview.jpg" />
-    <div class="featured--type print--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
 </div>
-
-<div class="featured--column far">
-  <div class="featured--ctn">
-    <img src="/img/bf--preview.jpg" />
-    <div class="featured--type web--grey"></div>
-    <div class="arrow--link"></div>
-  </div>
-
-    <div class="featured--ctn">
-      <img src="/img/astro--preview.jpg" />
-      <div class="featured--type print--grey"></div>
-      <div class="arrow--link"></div>
-    </div>
-  </div>
-
-<script>
-$(".circle").bindFirst("click", function() {
-
-	var width = "";
-	var height = "";
-	var dimensions = "8.5 x 10";
-
-	if(dimensions != "")
-	{
-		var tokens = dimensions.toLowerCase().split("x");
-		if(tokens.length = 2)
-		{
-			width = tokens[0];
-			height = tokens[1];
-		}
-
-		if(width == "" || isNaN(width) || height == "" || isNaN(height))
-		{
-			width = 6;
-			height = 9;
-		}
-	}
-
-	if($(window).width() > $(window).height())
-	{
-		var ratio = width / height;
-		height = Math.round($(window).height() * .9);
-		width = Math.round(height * ratio);
-	}
-	else
-	{
-		var ratio = height / width;
-		width = Math.round($(window).width() * .9);
-		height = Math.round(width * ratio);
-	}
-
-	console.info(width + " x " + height);
-	$("#book2Look").prop("height", height);
-	$("#book2Look").prop("width", width);
-
-});
-</script>
 
 </body>
