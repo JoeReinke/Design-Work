@@ -146,6 +146,17 @@ p {
 	vertical-align: middle;
 	line-height: 60px;
 }
+
+.header--nav > p > a {
+	text-decoration: none;
+cursor: pointer;
+color: #FFF;
+font-weight: 600;
+animation: textColor 75s ease infinite;
+border-bottom: solid 1px;
+}
+}
+
 .header {
 	width: 100%;
 	animation: navColor 75s ease infinite;
