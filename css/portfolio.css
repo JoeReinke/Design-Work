@@ -211,6 +211,8 @@ vertical-align: middle;
 	display: inline-block;
 	overflow: hidden;
 	border-radius: 10px;
+	background-color: #fff;
+	box-shadow: 0 2px 30px 0 rgba(0, 0, 0, 0.2);
 }
 
 .work > img {
