@@ -213,8 +213,8 @@ vertical-align: middle;
 
 @media screen and (max-width: 800px) {
 	.work {
-		width: 90%;
-		margin: 4%;
+		width: 85%;
+		margin: 4% auto;
 		display: block;
 		overflow: hidden;
 		border-radius: 10px;
