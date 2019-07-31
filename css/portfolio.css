@@ -212,28 +212,13 @@ vertical-align: middle;
 	width: 100%;
 }
 
-@media screen and (max-height: 650px) {
-	.logo {
-		display: none;
-	}
-
-	.chat {
-		display: none;
-	}
-
-
-}
-
-@media screen and (max-height: 500px) {
-	.nav {
-		display: none;
-	}
-
-	.main--body {
-		margin-left: 70px;
-		margin-top: 36px;
-		display: inline-block;
-		max-width: 650px;
+@media screen and (max-width: 800px) {
+	.work {
+		width: 90%;
+		margin: 4%;
+		display: block;
+		overflow: hidden;
+		border-radius: 10px;
 	}
 
 }
