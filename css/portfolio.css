@@ -122,26 +122,26 @@ p {
 	height: 75px;
 	background: linear-gradient(269deg, #f6c149, #ec33e5, #e93740, #8e37e9, #4955d8, #37b4e9, #37e9a8);
 	background-size: 1400% 1400%;
-	-webkit-animation: header--gradient 30s ease infinite;
-	-moz-animation: header--gradient 30s ease infinite;
-	animation: header--gradient 30s ease infinite;
+	-webkit-animation: headergradient 30s ease infinite;
+	-moz-animation: headergradient 30s ease infinite;
+	animation: headergradient 30s ease infinite;
 	background-color: #4068E4;
 }
 
 
 
 
-@-webkit-keyframes header--gradient {
+@-webkit-keyframes headergradient {
     0%{background-position:0% 51%}
     50%{background-position:100% 50%}
     100%{background-position:0% 51%}
 }
-@-moz-keyframes header--gradient {
+@-moz-keyframes headergradient {
     0%{background-position:0% 51%}
     50%{background-position:100% 50%}
     100%{background-position:0% 51%}
 }
-@keyframes header--gradient {
+@keyframes headergradient {
     0%{background-position:0% 51%}
     50%{background-position:100% 50%}
     100%{background-position:0% 51%}
