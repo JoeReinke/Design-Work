@@ -97,7 +97,23 @@ p {
 	display: inline-block;
 }
 
+/*-------------------------------------------Lightbox-----------------------------------*/
 
+.lightbox {
+    visibility: hidden;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.visible {
+    visibility: visible;
+}
 
 /*-------------------------------------------Header-----------------------------------*/
 
@@ -113,6 +129,7 @@ p {
 	min-width: 300px;
 	width: 100%;
 	margin: 0 auto;
+	padding: 0 20px;
 }
 
 .header--logo {
@@ -123,7 +140,7 @@ p {
 .header--nav > h1 {
 	color: #fff;
 	font-weight: 700;
-	font-size: 1.5rem;
+	font-size: 1.25rem;
 	display: inline-block;
 	margin: -40px 0 0 20px;
 	vertical-align: middle;
@@ -143,6 +160,7 @@ p {
 	min-width: 300px;
 	width: 100%;
 	margin: 50px auto;
+	padding: 0 20px;
 }
 
 .work {
