@@ -146,10 +146,13 @@ p {
 }
 
 .work {
-	width: 49%;
+	width: 48%;
 	max-width: 600px;
-	max-height: 400px;
 	display: inline-block;
+}
+
+.work > img {
+	width: 100%;
 }
 
 @media screen and (max-height: 650px) {
