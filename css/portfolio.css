@@ -153,13 +153,13 @@ padding-left: 50px;
 }
 
 
-.header--nav > p > a {
+.header--nav--text {
 	text-decoration: none;
-cursor: pointer;
-color: #FFF;
-font-weight: 600;
-animation: textColor 75s ease infinite;
-border-bottom: solid 1px;
+	cursor: pointer;
+	color: #FFF;
+	font-weight: 600;
+	animation: textColor 75s ease infinite;
+	border-bottom: solid 1px;
 }
 
 .header {
