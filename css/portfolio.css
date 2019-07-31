@@ -442,16 +442,13 @@ p {
 	font-weight: 700;
 	font-size: 1.5rem;
 	 display: inline-block;
+	 margin: 12px;
 }
 .header {
 	width: 100%;
 	animation: navColor 75s ease infinite;
 	background-color: #4068E4;
 }
-
-
-
-
 
 .text--body > ul {
 	list-style-type: none;
