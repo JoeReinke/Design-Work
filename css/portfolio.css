@@ -5,6 +5,7 @@
 
 * {
 	font-family: 'Source Sans Pro', sans-serif;
+	box-sizing: borer-box;
 }
 
 a {
@@ -17,7 +18,7 @@ a {
 }
 
 body {
-	margin: 0 0 0 150px;
+	margin: 0;
 }
 
 h1 {
@@ -94,6 +95,50 @@ p {
 	transform: translateY(-50%);
 	width: 100%;
 }
+
+
+.logo {
+	content: url("/svg/logoV2.svg");
+	margin: 7px auto 0px auto;
+	width: 46px;
+	cursor: pointer;
+	left: 17px;
+	display: inline-block;
+}
+
+
+
+/*-------------------------------------------Header-----------------------------------*/
+
+.header {
+	width: 100%;
+	animation: navColor 75s ease infinite;
+	background-color: #4068E4;
+	height: 60px;
+}
+
+.header--nav {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.header--logo {
+ display: inline-block;
+}
+
+
+.header > h1 {
+	color: #fff;
+	font-weight: 700;
+	font-size: 1.5rem;
+	 display: inline-block;
+}
+.header {
+	width: 100%;
+	animation: navColor 75s ease infinite;
+	background-color: #4068E4;
+}
+
 
 @media screen and (max-height: 650px) {
 	.logo {
