@@ -187,13 +187,6 @@ vertical-align: middle;
 	animation: none;
 }
 
-.header {
-	width: 100%;
-	animation: navColor 75s ease infinite;
-	background-color: #4068E4;
-}
-
-
 
 /*--------------------Work----------------------------------*/
 .work--ctn {
