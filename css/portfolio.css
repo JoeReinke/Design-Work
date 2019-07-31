@@ -119,10 +119,33 @@ p {
 
 .header {
 	width: 100%;
-	animation: navColor 75s ease infinite;
-	background-color: #4068E4;
 	height: 75px;
+	background: linear-gradient(269deg, #f6c149, #ec33e5, #e93740, #8e37e9, #4955d8, #37b4e9, #37e9a8);
+	background-size: 1400% 1400%;
+	-webkit-animation: header--gradient 30s ease infinite;
+	-moz-animation: header--gradient 30s ease infinite;
+	animation: header--gradient 30s ease infinite;
+	background-color: #4068E4;
 }
+
+
+
+@-webkit-keyframes header--gradient {
+    0%{background-position:50% 0%}
+    50%{background-position:50% 100%}
+    100%{background-position:50% 0%}
+}
+@-moz-keyframes header--gradient {
+    0%{background-position:50% 0%}
+    50%{background-position:50% 100%}
+    100%{background-position:50% 0%}
+}
+@keyframes header--gradient {
+    0%{background-position:50% 0%}
+    50%{background-position:50% 100%}
+    100%{background-position:50% 0%}
+}
+
 
 .header--nav {
 	max-width: 1280px;
