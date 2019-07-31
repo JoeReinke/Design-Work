@@ -451,6 +451,7 @@ p {
 	width: 100%;
 	animation: navColor 75s ease infinite;
 	background-color: #4068E4;
+	height: 40px;
 }
 
 
