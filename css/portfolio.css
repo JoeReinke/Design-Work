@@ -72,8 +72,6 @@ p {
 	margin: 7px auto 0px auto;
 	width: 46px;
 	cursor: pointer;
-	z-index: 100;
-	position: absolute;
 	left: 17px;
 }
 
