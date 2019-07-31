@@ -109,7 +109,7 @@ p {
 }
 
 .header--nav {
-	max-width: 1200px;
+	max-width: 900px;
 	margin: 0 auto;
 }
 
@@ -123,6 +123,7 @@ p {
 	font-weight: 700;
 	font-size: 1.5rem;
 	 display: inline-block;
+	     margin: -36px 0 0 20px;
 }
 .header {
 	width: 100%;
