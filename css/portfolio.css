@@ -150,7 +150,8 @@ p {
 .header--nav > p  {
 display: inline-block;
 padding-left: 50px;
-	margin: -40px 0 0 20px;
+margin: -37px 0 0 20px;
+vertical-align: middle;
 }
 
 
