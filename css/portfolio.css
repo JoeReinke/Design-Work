@@ -17,7 +17,7 @@ a {
 }
 
 body {
-	margin: 0;
+	margin: 0 0 0 150px;
 }
 
 h1 {
@@ -56,41 +56,53 @@ p {
 	color: #484848;
 }
 
-@media screen and (max-height: 650px) {
-	.logo {
-		display: none;
-	}
-
-	.chat {
-		display: none;
-	}
-
-
+.nav {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 80px;
+	height: 100vh;
+	text-align: center;
+	animation: navColor 75s ease infinite;
+	background-color: #4068E4;
 }
 
-@media screen and (max-height: 500px) {
-	.nav {
-		display: none;
-	}
-
-	.main--body {
-		margin-left: 70px;
-		margin-top: 36px;
-		display: inline-block;
-		max-width: 650px;
-	}
-
+.logo {
+	content: url("/svg/logoV2.svg");
+	margin: 40px auto 20px auto;
+	width: 46px;
+	cursor: pointer;
+	z-index: 100;
+	position: absolute;
+	left: 17px;
 }
+
+
 
 /*-------------------------------------------Header-----------------------------------*/
+
 .header {
 	width: 100%;
 	animation: navColor 75s ease infinite;
 	background-color: #4068E4;
-	height: 10%;
+	height: 60px;
+}
+
+.header--nav {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.header--logo {
+
 }
 
 
+.header {
+	width: 100%;
+	animation: navColor 75s ease infinite;
+	background-color: #4068E4;
+}
 
 
 @media screen and (max-width: 1300px) {
