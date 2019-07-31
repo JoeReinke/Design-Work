@@ -160,6 +160,7 @@ padding-left: 50px;
 	color: #FFF;
 	font-weight: 600;
 	border-bottom: solid 1px;
+	animation: none;
 }
 
 .header {
