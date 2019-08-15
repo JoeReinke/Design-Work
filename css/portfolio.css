@@ -674,24 +674,16 @@ vertical-align: middle;
     	background-color: #0E82FF;
 	}
 }
-background: linear-gradient(269deg, #f6c149, #ec33e5, #e93740, #8e37e9, #4955d8, #37b4e9, #37e9a8);
 
-@keyframes  {
+
+@keyframes navlogo{
 	0% {
     	fill: #f6c149;
 	}
 
-	/*25% {
-		background-color: #A636FF;
-	}*/
-
 	20% {
 		fill: #ec33e5;
 	}
-
-	/*75% {
-		background-color: #00D0AC;
-	}*/
 
 	40% {
     	fill: #e93740;
