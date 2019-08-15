@@ -90,12 +90,7 @@ p {
 
 
 .logo {
-	content: url("/svg/logoV2.svg");
-	margin: 14px auto 0px auto;
-	width: 46px;
-	cursor: pointer;
-	left: 17px;
-	display: inline-block;
+
 }
 
 /*-------------------------------------------Lightbox-----------------------------------*/
