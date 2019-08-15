@@ -675,6 +675,28 @@ vertical-align: middle;
 	}
 }
 
+@keyframes navlogo {
+	0% {
+    	fill: #0E82FF;
+	}
+
+	/*25% {
+		background-color: #A636FF;
+	}*/
+
+	50% {
+		fill: #481DFF;
+	}
+
+	/*75% {
+		background-color: #00D0AC;
+	}*/
+
+	100% {
+    	fill: #0E82FF;
+	}
+}
+
 @keyframes textColor {
 	0% {
     	color: #0E82FF;
