@@ -132,24 +132,6 @@ p {
 
 
 
-@-webkit-keyframes navlogo {
-    0%{background-position:0% 51%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 51%}
-}
-@-moz-keyframes navlogo {
-    0%{background-position:0% 51%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 51%}
-}
-@keyframes navlogo {
-    0%{background-position:0% 51%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 51%}
-}
-
-
-
 @-webkit-keyframes headergradient {
     0%{background-position:0% 51%}
     50%{background-position:100% 50%}
@@ -692,8 +674,41 @@ vertical-align: middle;
     	background-color: #0E82FF;
 	}
 }
+background: linear-gradient(269deg, #f6c149, #ec33e5, #e93740, #8e37e9, #4955d8, #37b4e9, #37e9a8);
 
+@keyframes  {
+	0% {
+    	fill: #f6c149;
+	}
 
+	/*25% {
+		background-color: #A636FF;
+	}*/
+
+	20% {
+		fill: #ec33e5;
+	}
+
+	/*75% {
+		background-color: #00D0AC;
+	}*/
+
+	40% {
+    	fill: #e93740;
+	}
+
+	60% {
+    	fill: #8e37e9;
+	}
+
+	80% {
+    	fill: #4955d8;
+	}
+
+	100% {
+    	fill: #37b4e9;
+	}
+}
 
 @keyframes textColor {
 	0% {
