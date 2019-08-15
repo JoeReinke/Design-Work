@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>design</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portfolio-Home-Copy-12" transform="translate(-739.000000, -28.000000)" stroke="#4B545E" stroke-width="2">
+            <g id="design" transform="translate(750.500000, 39.000000) rotate(-45.000000) translate(-750.500000, -39.000000) translate(740.000000, 28.000000)">
+                <path d="M8.46032015,5.54394478 L13.92724,6.95312873 C14.2826745,7.0447475 14.5593493,7.32372638 14.6480174,7.67990839 L17.2053683,17.9528579 C17.3387824,18.4887861 17.0124802,19.0313954 16.476552,19.1648095 C16.3179261,19.2042979 16.1520383,19.2042975 15.9934126,19.1648085 L5.72831336,16.6093658 C5.36801001,16.5196702 5.08706628,16.2377272 4.99865053,15.8771076 L3.64564287,10.3586221 L8.46032015,5.54394478 Z" id="Rectangle-10" transform="translate(10.440431, 12.369185) rotate(-315.000000) translate(-10.440431, -12.369185) "></path>
+                <rect id="Rectangle-11" x="5.41875298" y="1.87077706" width="10" height="4.25844588" rx="1"></rect>
+                <rect id="Rectangle-11-Copy" x="10.4761519" y="12.0879369" width="1" height="8.23237555" rx="0.5"></rect>
+                <circle id="Oval-4" cx="10.4404315" cy="11.728561" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
