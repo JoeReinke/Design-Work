@@ -86,6 +86,11 @@ nav {
 	display: inline-block;
 }
 
+.nav--about {
+	content: url(/svg/nav/about.svg);
+	display: inline-block;
+}
+
 .center--nav > ul > li > p {
 	display: inline-block;
 	vertical-align: middle;
