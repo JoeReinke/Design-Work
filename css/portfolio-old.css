@@ -81,6 +81,11 @@ nav {
 	display: inline-block;
 }
 
+.nav--photo {
+	content: url(/svg/nav/photo.svg);
+	display: inline-block;
+}
+
 .center--nav > ul > li > p {
 	display: inline-block;
 	vertical-align: middle;
@@ -94,6 +99,7 @@ nav {
 
 .center--nav > ul > li{
 	display: inline-block;
+	margin: 0 25px;
 }
 
 .resume {
