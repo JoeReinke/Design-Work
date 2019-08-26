@@ -81,6 +81,10 @@ nav {
 	display: inline-block;;
 }
 
+.nav--design > ul > li > p {
+	display: inline-block;;
+}
+
 .resume {
   position: absolute;
   text-align: center;
