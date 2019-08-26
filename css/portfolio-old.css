@@ -83,6 +83,9 @@ nav {
 
 .center--nav > ul > li > p {
 	display: inline-block;
+	vertical-align: middle;
+	font-weight: 700;
+	margin-left: 10px;
 }
 
 .center--nav > ul {
