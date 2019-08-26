@@ -57,16 +57,11 @@ p {
 
 /*-------------------------------------------Nav-----------------------------------*/
 
-.nav {
-	position: fixed;
-	left: 0;
-	top: 0;
-	width: 80px;
-	height: 100vh;
+nav {
 	text-align: center;
-	animation: navColor 75s ease infinite;
-	background-color: #4068E4;
 }
+
+
 .logo {
   position: absolute;
   left: 10px;
