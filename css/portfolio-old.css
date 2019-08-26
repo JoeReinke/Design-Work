@@ -81,8 +81,12 @@ nav {
 	display: inline-block;;
 }
 
-.nav--design > ul > li > p {
+.center--nav > ul > li > p {
 	display: inline-block;
+}
+
+.center--nav > ul {
+	list-style-type: none;
 }
 
 .resume {
