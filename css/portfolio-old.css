@@ -78,6 +78,7 @@ nav {
 
 .nav--design {
 	content: url(/svg/nav/design.svg);
+	display: inline-block;;
 }
 
 .resume {
