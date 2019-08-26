@@ -3,6 +3,7 @@
 <svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <style type="text/css">
 	.st0{fill:none;stroke:#4B545E;stroke-width:2;}
+	.st1{fill:none;stroke:#4B545E;stroke-width:1.5;}
 </style>
 <title>design</title>
 <desc>Created with Sketch.</desc>
@@ -14,7 +15,7 @@
 				c-0.1-0.1-0.3-0.2-0.3-0.3L4.1,12c-0.2-0.3-0.2-0.7,0-1l2.9-4.9H13.9z"/>
 			<path id="Rectangle-11" class="st0" d="M6.4,1.9h8c0.6,0,1,0.4,1,1v2.3c0,0.6-0.4,1-1,1h-8c-0.6,0-1-0.4-1-1V2.9
 				C5.4,2.3,5.9,1.9,6.4,1.9z"/>
-			<path id="Rectangle-11-Copy" class="st0" d="M10.4,11.7L10.4,11.7c0.3,0,0.5,0.2,0.5,0.5v7.2c0,0.3-0.2,0.5-0.5,0.5l0,0
+			<path id="Rectangle-11-Copy" class="st1" d="M10.4,11.7L10.4,11.7c0.3,0,0.5,0.2,0.5,0.5v7.2c0,0.3-0.2,0.5-0.5,0.5l0,0
 				c-0.3,0-0.5-0.2-0.5-0.5v-7.2C9.9,11.9,10.1,11.7,10.4,11.7z"/>
 			<circle id="Oval-4" class="st0" cx="10.4" cy="11.7" r="1"/>
 		</g>
