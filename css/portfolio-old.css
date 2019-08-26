@@ -82,7 +82,7 @@ p {
 }
 
 .nav--design {
-	content: url(/svg/design.svg);
+	content: url(/svg/nav/design.svg);
 }
 
 .resume {
