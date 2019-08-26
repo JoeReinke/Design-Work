@@ -78,7 +78,7 @@ nav {
 
 .nav--design {
 	content: url(/svg/nav/design.svg);
-	display: inline-block;;
+	display: inline-block;
 }
 
 .center--nav > ul > li > p {
@@ -90,6 +90,10 @@ nav {
 
 .center--nav > ul {
 	list-style-type: none;
+}
+
+.center--nav > ul > li{
+	display: inline-block;
 }
 
 .resume {
