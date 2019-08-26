@@ -103,6 +103,7 @@ nav {
 
 .center--nav > ul {
 	list-style-type: none;
+	margin: 0;
 }
 
 .center--nav > ul > li{
