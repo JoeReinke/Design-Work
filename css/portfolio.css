@@ -6,6 +6,11 @@
 * {
 	font-family: 'Source Sans Pro', sans-serif;
 	box-sizing: border-box;
+	font-weight: normal;
+	font-style: normal;
+
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 a {
