@@ -53,6 +53,10 @@ p {
 	color: #484848;
 }
 
+
+
+/*-------------------------------------------Nav-----------------------------------*/
+
 .nav {
 	position: fixed;
 	left: 0;
@@ -63,8 +67,6 @@ p {
 	animation: navColor 75s ease infinite;
 	background-color: #4068E4;
 }
-
-/*-------------------------------------------Header-----------------------------------*/
 .logo {
   position: absolute;
   left: 10px;
@@ -74,6 +76,15 @@ p {
 	left: 17px;
 	display: inline-block;
 }
+
+.center--nav {
+
+}
+
+.nav--design {
+	content: url(/svg/design.svg);
+}
+
 .resume {
   position: absolute;
   text-align: center;
