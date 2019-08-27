@@ -70,6 +70,10 @@ nav {
 	cursor: pointer;
 	left: 17px;
 	display: inline-block;
+	border-radius: 25px;
+	-webkit-box-shadow: 0px 10px 33px -5px rgba(0,0,0,.35);
+	-moz-box-shadow: 0px 10px 33px -5px rgba(0,0,0,.35);
+	box-shadow: 0px 10px 33px -5px rgba(0,0,0,.35);
 }
 
 .center--nav {
@@ -139,8 +143,8 @@ nav {
   animation: headergradient 45s ease infinite;
   border-radius: 50px;
 	-webkit-box-shadow: 0px 10px 33px -5px rgba(0,0,0,.35);
--moz-box-shadow: 0px 10px 33px -5px rgba(0,0,0,.35);
-box-shadow: 0px 10px 33px -5px rgba(0,0,0,.35);
+  -moz-box-shadow: 0px 10px 33px -5px rgba(0,0,0,.35);
+  box-shadow: 0px 10px 33px -5px rgba(0,0,0,.35);
 }
 
 .resume:hover {
