@@ -151,6 +151,55 @@ nav {
   font-weight: 700;
 }
 
+/*------------------------------------Work Showcase Design---------------------------*/
+
+.work--ctn {
+	max-width: 1280px;
+	width: 100%;
+	margin: 50px auto;
+	padding: 0 20px;
+}
+
+.work {
+	width: 47%;
+	margin: 1%;
+	max-width: 600px;
+	display: inline-block;
+	overflow: hidden;
+	border-radius: 10px;
+	background-color: #fff;
+	box-shadow: 0 2px 30px 0 rgba(0, 0, 0, 0.1);
+}
+
+.work > img {
+	width: 100%;
+}
+
+.text--holder {
+	display: block;
+	padding: 20px 10px;
+}
+
+@media screen and (max-width: 800px) {
+	.work {
+		width: 85%;
+		margin: 4% auto;
+		display: block;
+		overflow: hidden;
+		border-radius: 10px;
+	}
+
+}
+
+.rounded {
+    animation: navColor 75s ease infinite;
+    z-index: 1;
+    position: relative;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 30px;
+}
+
 
 
 
