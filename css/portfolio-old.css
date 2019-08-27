@@ -130,6 +130,10 @@ nav {
 	background-size: 1400% 1400%;
 }
 
+.resume:hover p {
+  color: #FFFFFF;
+}
+
 .resume-link {
   text-decoration: none;
   color: #333;
@@ -147,9 +151,7 @@ nav {
   font-weight: 700;
 }
 
-.resume p:hover {
-  color: #FFFFFF;
-}
+
 
 
 
