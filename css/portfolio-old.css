@@ -118,12 +118,13 @@ nav {
   right: 20px;
   top: 15px;
   padding: 10px 40px;
-  background: #FFFFFF;
+  background-color: #FFFFFF;
   border-radius: 50px;
+	transition: animation 2s ease-in-out;
 }
 
 .resume:hover {
-	background: linear-gradient(269deg, #f6c149, #ec33e5, #e93740, #8e37e9, #4955d8, #37b4e9, #37e9a8);
+	background-color: linear-gradient(269deg, #f6c149, #ec33e5, #e93740, #8e37e9, #4955d8, #37b4e9, #37e9a8);
 	background-size: 1400% 1400%;
 	-webkit-animation: headergradient 45s ease infinite;
 	-moz-animation: headergradient 45s ease infinite;
