@@ -108,7 +108,7 @@ nav {
 
 .center--nav > ul {
 	list-style-type: none;
-	margin: 0;
+	margin: 0 170px 0 50px;
 }
 
 .center--nav > ul > li{
