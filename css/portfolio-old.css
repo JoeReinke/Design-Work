@@ -148,7 +148,7 @@ box-shadow: 0px 55px 48px -21px rgba(0,0,0,0.21);
 }
 
 .resume:hover p {
-  color: #FFFFFF;
+
 }
 
 .resume-link {
@@ -162,7 +162,7 @@ box-shadow: 0px 55px 48px -21px rgba(0,0,0,0.21);
 }
 
 .resume p {
-  color: #3b3b3b;
+  color: #FFFFFF;
   line-height: normal;
   margin: 0;
   font-weight: 700;
