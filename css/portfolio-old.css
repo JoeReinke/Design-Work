@@ -108,8 +108,7 @@ nav {
 }
 
 .center--nav > ul > li{
-	display: inline-block;
-	margin: 0 25px;
+
 }
 
 .leftnav {
@@ -117,6 +116,14 @@ nav {
     float: left;
     cursor: pointer;
     display: inline-block;
+		margin: 5px 3px 4px 51px;
+}
+
+.rightnav {
+    float: right;
+    cursor: pointer;
+    display: inline-block;
+		margin: 5px 3px 4px 51px;
 }
 
 .resume {
