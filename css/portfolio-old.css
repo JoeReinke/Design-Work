@@ -120,14 +120,14 @@ nav {
     float: left;
     cursor: pointer;
     display: inline-block;
-		margin: 5px 3px 4px 51px;
+		margin: 5px 25px 4px 0;
 }
 
 .rightnav {
     float: right;
     cursor: pointer;
     display: inline-block;
-		margin: 7px 187px 4px 0px;
+		margin: 7px 0 4px 0px;
 }
 
 .resume {
