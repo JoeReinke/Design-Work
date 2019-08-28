@@ -213,6 +213,79 @@ nav {
 	padding: 20px 10px;
 }
 
+
+
+.top--text {
+	font-weight: 700;
+	font-size: 12px;
+	display: inline-block;
+	margin-right: 100px;
+	margin-left: 50px;
+	color: #484848;
+}
+
+.top--text--last {
+	font-weight: 700;
+	font-size: 12px;
+	display: inline-block;
+	margin-left: 50px;
+	color: #484848;
+}
+
+.text--body {
+	display: block;
+	margin-left: 50px;
+	margin-top: 75px;
+}
+
+.bold {
+	font-weight: 700;
+}
+
+.med {
+	font-weight: 600;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.blue {
+	animation: textColor 75s ease infinite;
+}
+
+.text--body-spacer {
+	width: 50px;
+	height: 5px;
+	animation: navColor 75s ease infinite;
+	margin: 25px 0 35px;
+}
+
+.text--body > ul {
+	list-style-type: none;
+  margin: 0 0 50px 0;
+  padding: 0;
+	columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+	-webkit-column-break-inside: avoid; /* Chrome, Safari */
+	 page-break-inside: avoid;           /* Theoretically FF 20+ */
+	 break-inside: avoid-column;         /* IE 11 */
+}
+
+.text--body > ul > li {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 22px;
+	color: #484848;
+	page-break-inside: avoid;
+	break-inside: avoid;
+	margin-right: 20px;
+	-webkit-column-break-inside: avoid;
+	break-inside: avoid-column;
+}
+
+
 @media screen and (max-width: 800px) {
 	.work {
 		width: 85%;
