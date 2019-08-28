@@ -106,6 +106,10 @@ nav {
 }
 
 .center--nav > ul > li > a > p {
+	cursor: pointer;
+}
+
+.center--nav > ul > li > a > p {
 	display: inline-block;
 	vertical-align: middle;
 	font-weight: 700;
