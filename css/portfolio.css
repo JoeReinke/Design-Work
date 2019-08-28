@@ -191,10 +191,12 @@ nav {
 
 .intro {
 	text-align: center;
+	width: 100%;
+	margin: 0 auto;
 }
 
 .intro > H1 {
-	font-size: 44px;
+	font-size: 144px;
     background: linear-gradient(269deg, #37e9a8, #37b4e9, #4955d8, #8e37e9, #e93740);
     background-clip: border-box;
     background-clip: text;
