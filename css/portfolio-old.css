@@ -112,18 +112,17 @@ nav {
 }
 
 .leftnav {
-    margin-right: 4%;
     float: left;
     cursor: pointer;
     display: inline-block;
-		margin: 5px 40px 4px 0;
+		margin: 8px 40px 4px 0;
 }
 
 .rightnav {
     float: right;
     cursor: pointer;
     display: inline-block;
-		margin: 7px 0 4px 0px;
+		margin: 8px 0 4px 0px;
 }
 
 .resume {
