@@ -163,8 +163,8 @@ nav {
 	transform: scale(1.0125);
 }
 
-.resume:hover p {
-
+.resume:active {
+	transform: scale(1);
 }
 
 .resume-link {
