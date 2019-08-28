@@ -3,6 +3,18 @@
 
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,600i,700,700i');
 
+
+/*  ------------------------Colors--------------------
+Pink: #ec33e5
+Yellow: #f6c149
+Red: #e93740
+Lighter Red: #e8565d
+Purple: #8e37e9
+Blue: #4955d8
+Light Blue: #37b4e9
+Green: #37e9a8
+*/
+
 * {
 	font-family: 'Source Sans Pro', sans-serif;
 	box-sizing: border-box;
@@ -131,7 +143,7 @@ nav {
   right: 20px;
   top: 15px;
   padding: 10px 40px;
-	background: linear-gradient(269deg, #f6c149, #ec33e5, #e93740, #8e37e9, #4955d8, #37b4e9, #37e9a8);
+	background: linear-gradient(269deg, #f6c149, #e93740, #8e37e9, #4955d8, #37b4e9, #37e9a8);
 	background-size: 1400% 1400%;
 	-webkit-animation: headergradient 45s ease infinite;
 	-moz-animation: headergradient 45s ease infinite;
