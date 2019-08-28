@@ -195,6 +195,12 @@ nav {
 	margin: 5px auto 0 auto;
 }
 
+.intro--style {
+	font-weight: 400;
+	color: #3b3b3b;
+	font-style: italic;
+}
+
 .intro > H1 {
 	font-size: 144px;
     background: linear-gradient(269deg, #37e9a8, #37b4e9, #4955d8, #8e37e9, #e93740);
