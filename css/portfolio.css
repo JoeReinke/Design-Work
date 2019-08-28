@@ -211,6 +211,13 @@ nav {
 		margin-bottom: 0px;
 }
 
+.intro > h5 {
+	display: inline-block;
+	color: #3b3b3b;
+	font-weight: 400;
+	font-style: italic;
+}
+
 .intro > H2 {
 	color: #3b3b3b;
 	margin-bottom: 50px;
