@@ -245,7 +245,7 @@ nav {
 
 .work > img {
 	width: 100%;
-	float: left;
+	display: block;
 }
 
 
