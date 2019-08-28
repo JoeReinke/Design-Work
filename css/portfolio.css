@@ -199,6 +199,10 @@ nav {
 	font-size: 144px;
     background: linear-gradient(269deg, #37e9a8, #37b4e9, #4955d8, #8e37e9, #e93740);
     background-clip: border-box;
+		background-size: 1400% 1400%;
+		-webkit-animation: headergradient 75s linear infinite;
+		-moz-animation: headergradient 75s linear infinite;
+	  animation: headergradient 75s linear infinite;
 		display:inline-block;
     background-clip: text;
     -webkit-background-clip: text;
