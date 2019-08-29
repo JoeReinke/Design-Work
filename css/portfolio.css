@@ -205,6 +205,8 @@ nav {
 }
 
 h2.serif {
+	font-family: 'playfair Display', serif;
+	font-style: italic;
 	font-weight: 200;
 	font-size: 72px;
 	color: #c1c4ce;
