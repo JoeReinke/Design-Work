@@ -207,11 +207,13 @@ nav {
 		margin: 25px 0 0 0;
 }
 
-.serif {
+h2.serif {
 	font-family: 'Playfair Display', serif;
 	font-weight: 400;
 	font-style: italic;
 	font-size: 72px;
+	color: #3b3b3b;
+	display:inline-block;
 }
 
 .intro > h5 {
