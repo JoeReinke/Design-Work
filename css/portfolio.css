@@ -193,7 +193,7 @@ nav {
 
 
 .intro > H1 {
-	font-size: 80px;
+		font-size: 80px;
     background: linear-gradient(269deg, #37e9a8, #37b4e9, #4955d8, #8e37e9, #e93740);
     background-clip: border-box;
 		background-size: 1400% 1400%;
@@ -204,7 +204,7 @@ nav {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-		margin-bottom: 0px;
+		margin: 25px 0 0 0;
 }
 
 .serif {
