@@ -204,9 +204,11 @@ nav {
 		margin: 25px 10px 0 0;
 }
 
-.portfolio {
+h2.serif {
 	font-weight: 400;
-	background: #c1c4ce;
+	font-style: italic;
+	font-size: 72px;
+	color: #c1c4ce;
 	display:inline-block;
 	margin: 25px 0 0 5px;
 }
