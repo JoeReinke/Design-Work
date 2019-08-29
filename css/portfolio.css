@@ -204,12 +204,9 @@ nav {
 		margin: 25px 10px 0 0;
 }
 
-h2.serif {
-	font-family: 'Playfair Display', serif;
+.portfolio {
 	font-weight: 400;
-	font-style: italic;
-	font-size: 72px;
-	color: #c1c4ce;
+	background: #c1c4ce;
 	display:inline-block;
 	margin: 25px 0 0 5px;
 }
