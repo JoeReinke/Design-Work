@@ -223,9 +223,11 @@ nav {
 
 .intro > H2 {
 	color: #3b3b3b;
+	margin-bottom: 25px;
+}
+.intro > p {
 	margin-bottom: 50px;
 }
-
 .button {
   text-align: center;
   padding: 10px 40px;
