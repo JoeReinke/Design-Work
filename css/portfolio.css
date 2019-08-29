@@ -201,7 +201,7 @@ nav {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-		margin: 25px 10px 0 0;
+		margin: 25px 0 0 0;
 }
 
 h2.serif {
@@ -211,7 +211,7 @@ h2.serif {
 	font-size: 72px;
 	color: #c1c4ce;
 	display:inline-block;
-	margin: 25px 0 0 5px;
+	margin: 25px 15px 0 5px;
 }
 
 .intro > h5 {
