@@ -222,8 +222,15 @@ h2.serif {
 }
 
 .intro > H3 {
+	font-size: 1.2rem;
 	color: #3b3b3b;
-	margin-bottom: 25px;
+	margin: 25px auto;
+	background: linear-gradient(269deg, #37e9a8, #37b4e9, #4955d8, #8e37e9, #e93740);
+	background-clip: border-box;
+	background-size: 1400% 1400%;
+	-webkit-animation: headergradient 75s linear infinite;
+	-moz-animation: headergradient 75s linear infinite;
+	animation: headergradient 75s linear infinite;
 }
 .intro > p {
 	margin-bottom: 50px;
