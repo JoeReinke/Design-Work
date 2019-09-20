@@ -236,9 +236,6 @@ h2.serif {
 	animation: headergradient 75s linear infinite;
 }
 
-.intro > h3 > .grey {
-	background:  linear-gradient(269deg, #3b3b3b, #3b3b3b);
-}
 
 .intro > p {
 	margin-bottom: 50px;
