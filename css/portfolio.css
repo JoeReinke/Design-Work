@@ -239,6 +239,7 @@ h2.serif {
 .intro > H3 > .grey {
 	background-color: #ffffff;
 	color: #3b3b3b;
+	-webkit-text-fill-color: #3b3b3b;
 }
 
 
