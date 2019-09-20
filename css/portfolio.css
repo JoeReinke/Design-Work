@@ -237,7 +237,7 @@ h2.serif {
 }
 
 .intro > h3 > .grey {
-	background:  linear-gradient(269deg, #3b3b3b);
+	background:  linear-gradient(269deg, #3b3b3b, #3b3b3b);
 }
 
 .intro > p {
