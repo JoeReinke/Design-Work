@@ -236,6 +236,11 @@ h2.serif {
 	animation: headergradient 75s linear infinite;
 }
 
+.intro > H3 > .grey {
+	background-color: #ffffff;
+	color: #3b3b3b;
+}
+
 
 .intro > p {
 	margin-bottom: 50px;
